@@ -20,6 +20,5 @@ Prije ili poslije svi zapnemo kod prevođenja, bilo zbog potpuno novog izraza il
 * [Priručnik hrvatskoga poslovnog jezika Coca-Cole](http://www.prirucnik.hr/) (prirucnik.hr)
 * [Megabajt](http://www.megabajt.org/) – Hrvatski online informatički rječnik
 * [EUdict](http://www.eudict.com/index.php) – online rječnik
-
-[EHtip](https://addons.mozilla.org/en-US/firefox/addon/ehtip/) – koristan jezični dodatak za Firefox
-[Ispravi.me](https://ispravi.me/) – odličan spelling checker Hascheck, razvijen na zagrebačkom FER-u
+* [EHtip](https://addons.mozilla.org/en-US/firefox/addon/ehtip/) – koristan jezični dodatak za Firefox
+* [Ispravi.me](https://ispravi.me/) – odličan spelling checker Hascheck, razvijen na zagrebačkom FER-u
