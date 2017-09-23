@@ -1,0 +1,4498 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-07 02:53:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: hr\n"
+"Project-Id-Version: BB-Plugin\n"
+
+msgid "\"Add to Cart\" Button"
+msgstr "Dugme \"Dodaj u Košaricu\""
+
+msgid "\"{message}\" on line {line} of {file}."
+msgstr "\"{message}\" na liniji {line} od {file}."
+
+msgid "% Comments"
+msgstr "% komentara"
+
+msgctxt "%s is the preset hex color code."
+msgid "%s added to presets!"
+msgstr "%s dodano u određeno!"
+
+msgctxt "%s is the preset hex color code."
+msgid "%s is already a saved preset."
+msgstr "%s je već spremljena postavka."
+
+msgctxt "%s stands for author name."
+msgid "By %s"
+msgstr "Od %s"
+
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "%s Settings"
+msgstr "%s Postavke"
+
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "Launch %s"
+msgstr "Pokreni %s"
+
+msgctxt "%s stands for form field label."
+msgid "Edit %s"
+msgstr "Uredi %s"
+
+msgctxt "%s stands for post/page title."
+msgid "Copy of %s"
+msgstr "Kopija od %s"
+
+msgctxt "%s stands for the module filename"
+msgid ""
+"A module with the filename %s.php already exists! Please namespace your "
+"module filenames to ensure compatibility with Beaver Builder."
+msgstr ""
+"Modul s nazivom datoteke %s.php već postoji! Molimo preimenujte modul tako "
+"da bude kompatibilan sa Beaver Builder."
+
+msgctxt "%s stands for the type of node template being saved."
+msgid "Save %s"
+msgstr "Spremi predložak %s"
+
+msgctxt "%s stands for widget slug."
+msgid "%s no longer exists."
+msgstr "%s više ne postoji."
+
+msgid "0 Comments"
+msgstr "0 komentara"
+
+msgid "1 Column"
+msgstr "1 Stupac"
+
+msgid "1 Comment"
+msgstr "1 komentar"
+
+msgid "1865 Winchester Blvd #202 Campbell, CA 95008"
+msgstr "1865 Winchester Blvd #202 Campbell, CA 95008"
+
+msgid "2 Columns"
+msgstr "2 Stupca"
+
+msgid "3 Columns"
+msgstr "3 Stupca"
+
+msgid "4 Columns"
+msgstr "4 Stupca"
+
+msgid "5 Columns"
+msgstr "5 Stupaca"
+
+msgid "6 Columns"
+msgstr "6 Stupaca"
+
+msgid ""
+"<a href=\"https://www.wpbeaverbuilder.com/go/bb-facebook\" target=\"_blank"
+"\">Join the Beaver Builder's Group on Facebook</a>"
+msgstr ""
+"<a href=\"https://www.wpbeaverbuilder.com/go/bb-facebook\" target=\"_blank"
+"\">Pridružite se Beaver Builder Grupi na Facebooku</a>"
+
+msgid ""
+"<a href=\"https://www.wpbeaverbuilder.com/go/bb-slack\" target=\"_blank"
+"\">Join the Beaver Builder's Group on Slack</a>"
+msgstr ""
+"<a href=\"https://www.wpbeaverbuilder.com/go/bb-slack\" target=\"_blank"
+"\">Pridružite se Beaver Builder's Group na Slacku</a>"
+
+msgid "<strong>Note</strong>: These settings apply to all posts and pages."
+msgstr ""
+"<strong>Napomena</strong>: Ove postavke se primjenjuju na sve objave i "
+"stranice."
+
+msgid "<strong>UPDATE UNAVAILABLE!</strong>"
+msgstr "<strong>AŽURIRANJE NEDOSTUPNO!</strong>"
+
+msgid ""
+"A CSS and JavaScript file is dynamically generated and cached each time you "
+"create a new layout. Sometimes the cache needs to be refreshed when you "
+"migrate your site to another server or update to the latest version. If you "
+"are running into any issues, please try clearing the cache by clicking the "
+"button below."
+msgstr ""
+"CSS i JavaScript datoteka su dinamički generirane i stavljene u predmemoriju "
+"svaki put kada vi kreirate novi izgled. Ponekad predmemoriju treba osvježiti "
+"kad selite stranicu na drugi server ili ažurirate na najnoviju verziju. Ako "
+"naiđete na poteškoće, molimo pokušajte očistiti predmemoriju klikom na dugme "
+"ispod."
+
+msgid "A WYSIWYG text editor."
+msgstr "WYSIWYG uređivač teksta."
+
+msgid ""
+"A class that will be applied to this column's HTML. Must start with a letter "
+"and only contain dashes, underscores, letters or numbers. Separate multiple "
+"classes with spaces."
+msgstr ""
+"Klasa koja će se primjenjivati u HTML ovog stupca. Mora početi sa slovom i "
+"sadrži samo crtice, podvlake, slova ili brojeve. Odvoji više klasa s "
+"razmacima."
+
+msgid ""
+"A class that will be applied to this module's HTML. Must start with a letter "
+"and only contain dashes, underscores, letters or numbers. Separate multiple "
+"classes with spaces."
+msgstr ""
+"Klasa koja će se primjenjivati u HTML ovog modula. Mora početi sa slovom i "
+"sadrži samo crtice, podvlake, slova ili brojeva. Odvoji više klasa s "
+"razmacima."
+
+msgid ""
+"A class that will be applied to this row's HTML. Must start with a letter "
+"and only contain dashes, underscores, letters or numbers. Separate multiple "
+"classes with spaces."
+msgstr ""
+"Klasa koja će se primjenjivati u HTML ovog retka. Mora početi sa slovom i "
+"sadrži samo crtice, podvlake, slova ili brojeve. Odvoji više klasa s "
+"razmacima."
+
+msgctxt "A client account in Campaign Monitor."
+msgid "Client"
+msgstr "Klijent"
+
+msgid "A comma separated list of tags."
+msgstr "Zarezom odvojen popis oznaka."
+
+msgctxt "A comma separated list of tags."
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "A divider line to separate content."
+msgstr "Razdjelnik linija za razdvajanje sadržaja."
+
+msgid "A heading and snippet of text with an optional link, icon and image."
+msgstr "Naslov i isječak teksta s neobaveznim linkom, ikonom i slikom."
+
+msgid ""
+"A label to identify this slide on the Slides tab of the Content Slider "
+"settings."
+msgstr ""
+"Oznaka za identifikaciju ovog slajda na kartici Slajdovi u Postavkama "
+"sadržaja slajda."
+
+msgctxt "A list of subscribers group from a Mailrelay account."
+msgid "Group"
+msgstr "Grupa"
+
+msgid "A photo that will be displayed if the video fails to load."
+msgstr "Slika koja će se prikazati ako se ne učita video."
+
+msgid "A revamped editor with more accurate dragging and dropping."
+msgstr "Preuređeni urednik s točnijim povlačenjem i ispuštanjem."
+
+msgid "A simple call to action button."
+msgstr "Jednostavo dugme za poziv na radnju."
+
+msgid "A simple pricing table generator."
+msgstr "Jednostavan generator tablice cijena."
+
+msgctxt "A tag to add to contacts in Drip when they subscribe."
+msgid "Tags"
+msgstr "﻿Oznake"
+
+msgctxt "A tag to add to contacts in Hatchbuck when they subscribe."
+msgid "Tag"
+msgstr "Oznaka"
+
+msgid ""
+"A unique ID that will be applied to this column's HTML. Must start with a "
+"letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr ""
+"Jedinstveni ID koji će se primjenjivati u HTML ovog stupca. Mora početi sa "
+"slovom i sadrži samo crtice, podvlake, slova ili brojeve. Bez praznina."
+
+msgid ""
+"A unique ID that will be applied to this module's HTML. Must start with a "
+"letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr ""
+"Jedinstveni ID koji će se primjenjivati u HTML ovog modula. Mora početi sa "
+"slovom i sadrži samo crtice, podvlake, slova ili brojeve. Bez praznina."
+
+msgid ""
+"A unique ID that will be applied to this row's HTML. Must start with a "
+"letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr ""
+"Jedinstveni ID koji će se primjenjivati u HTML ovog retka. Mora početi sa "
+"slovom i sadrži samo crtice, podvlake, slova ili brojeve. Bez praznina."
+
+msgid "A very simple contact form."
+msgstr "Vrlo jednostavan kontakt obrazac."
+
+msgid ""
+"A video from Youtube or Vimeo to use as the background of this row. Most "
+"modern browsers support this format."
+msgstr ""
+"Video iz Youtube ili Vimeo koji se koristi kao pozadina ovog retka. Većina "
+"modernih preglednika podržava ovaj format."
+
+msgid ""
+"A video in the MP4 format to use as the background of this row. Most modern "
+"browsers support this format."
+msgstr ""
+"Video u MP4 formatu se koristi kao pozadina ovog retka. Većina modernih "
+"preglednika podržava ovaj format."
+
+msgid "A video in the MP4 format. Most modern browsers support this format."
+msgstr "Video u MP4 formatu. Većina modernih preglednika podržava ovaj format."
+
+msgid ""
+"A video in the MP4 to use as the background of this row. Most modern "
+"browsers support this format."
+msgstr ""
+"Video u MP4 formatu za korištenje kao pozadina ovog retka. Većina modernih "
+"preglednika podržava ovaj format."
+
+msgid ""
+"A video in the WebM format to use as fallback. This format is required to "
+"support browsers such as FireFox and Opera."
+msgstr ""
+"Video u WebM formatu se koristi kao zamjenski. Ovaj format je potreban kako "
+"bi se podržalo preglednike kao što su Firefox i Opera."
+
+msgid ""
+"A video in the WebM format to use as the background of this row. This format "
+"is required to support browsers such as FireFox and Opera."
+msgstr ""
+"Video u WebM formatu se koristiti kao pozadina ovog reda. Ovaj format je "
+"potreban kako bi se podržalo preglednike kao što su Firefox i Opera."
+
+msgid "API Key"
+msgstr "API ključ"
+
+msgid "API Token"
+msgstr "API Token"
+
+msgid "API URL"
+msgstr "API URL"
+
+msgid "Above Bar"
+msgstr "Iznad trake"
+
+msgid "Above Heading"
+msgstr "Iznad naslova"
+
+msgid "Above Text"
+msgstr "Iznad teksta"
+
+msgid "Above Title"
+msgstr "Iznad Naslova"
+
+msgid "Accent Color"
+msgstr "Boja naglašavanja"
+
+msgid "Accent Text Color"
+msgstr "Boja naglašenog teksta"
+
+msgid "Access Key"
+msgstr "Pristup Ključ"
+
+msgid "Access Token"
+msgstr "Pristupni Token"
+
+msgid "Accordion"
+msgstr "Harmonika"
+
+msgid "Account"
+msgstr "Račun"
+
+msgid "Account ID"
+msgstr "ID računa"
+
+msgid "Account Name"
+msgstr "Naziv računa"
+
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: An account with that name already exists."
+msgstr "Greška: Račun s tim nazivom već postoji."
+
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: Missing account name."
+msgstr "Greška: Nedostaje naziv računa."
+
+msgid "Active!"
+msgstr "Aktivno!"
+
+msgid "Add Account..."
+msgstr "Dodaj račun..."
+
+msgid "Add Audio Files"
+msgstr "Dodaj Audio datoteke"
+
+msgid "Add Content"
+msgstr "Dodaj sadržaj"
+
+msgid "Add Icon"
+msgstr "Dodaj ikonu"
+
+msgid "Add Item"
+msgstr "Dodaj stavku"
+
+msgid "Add More Content"
+msgstr "Dodaj više sadržaja"
+
+msgid "Add Photos"
+msgstr "Dodaj slike"
+
+msgid "Add Pricing Box"
+msgstr "Dodaj okvir cijena"
+
+msgid "Add Rows"
+msgstr "Dodaj retke"
+
+msgid "Add Testimonial"
+msgstr "Dodaj iskustvo"
+
+msgid "Add a color preset first."
+msgstr "Najprije dodajte spremljenu boju."
+
+msgid ""
+"Add multi-column rows, adjust spacing, add backgrounds and more by dragging "
+"and dropping row layouts onto the page."
+msgstr ""
+"Dodajte retke s više stupaca, prilagodite razmak, dodajte pozadine i još "
+"mnogo toga povlačenjem i ispuštanjem izgleda retka na stranicu."
+
+msgid ""
+"Add new content by dragging and dropping modules or widgets into your row "
+"layouts or to create a new row layout."
+msgstr ""
+"Dodajte novi sadržaj povlačenjem i ispuštanjem modula ili widgeta u vaš "
+"izgled retka ili da kreirate novi izgled retka."
+
+msgctxt "Add predefined value."
+msgid "- Add predefined -"
+msgstr "- Dodavanje unaprijed određeno -"
+
+msgid ""
+"Additional modules: Contact Form, Tabs, Slider, Pricing Table, Map, Blog "
+"Posts, Subscribe Form, Social Icons, and many more."
+msgstr ""
+"Dodatni moduli: Kontakt Obrazac, Kartice, Slajder, Tablica Cijena, Karta, "
+"Blog Objave, Obrazac Pretplate, Društvene Ikone, i puno više."
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Adds a simple subscribe form to your layout."
+msgstr "Dodaje vašem izgledu jednostavan obrazac za pretplatu."
+
+msgid "Advanced"
+msgstr "Napredno"
+
+msgid "Advanced Modules"
+msgstr "Napredni moduli"
+
+msgid "After Text"
+msgstr "Nakon teksta"
+
+msgid "Align"
+msgstr "Poravnanje"
+
+msgid "Alignment"
+msgstr "Poravnanje"
+
+msgctxt "Alignment."
+msgid "Center"
+msgstr "Sredina"
+
+msgctxt "Alignment."
+msgid "Left"
+msgstr "Lijevo"
+
+msgctxt "Alignment."
+msgid "Right"
+msgstr "Desno"
+
+msgid ""
+"All rows will default to this width. You can override this and make a row "
+"full width in the settings for each row."
+msgstr ""
+"Svi redovi će imati default ove širine. Ovo možete zaobići i napraviti redak "
+"pune širine u postavkama za svaki redak."
+
+msgid ""
+"Along with access to our expert support team, the premium versions of Beaver "
+"Builder are packed with more features to save you time and make building "
+"websites easier!"
+msgstr ""
+"Osim pristupa našem stručnom timu za podršku, premium verzija Beaver "
+"Buildera je upakirana s više značajki tako da vam uštedi vrijeme i učini "
+"građenje web stranica lakšim!"
+
+msgid "Always"
+msgstr "Uvijek"
+
+msgid "Always Visible"
+msgstr "Uvijek vidljivo"
+
+msgid "An animated tesimonials area."
+msgstr "Područje animiranih iskustava."
+
+msgctxt "An email list from ActiveCampaign."
+msgid "List"
+msgstr "Lista"
+
+msgctxt "An email list from a third party provider."
+msgid "List"
+msgstr "Popis"
+
+msgctxt "An email list from third party provider."
+msgid "List"
+msgstr "Popis"
+
+msgid "Animation"
+msgstr "Animacija"
+
+msgid "Animation Delay"
+msgstr "Kašnjenje animacije"
+
+msgid "Animation Speed"
+msgstr "Brzina animacije"
+
+msgctxt "Animation style."
+msgid "Fade In"
+msgstr "Pojavljivanje"
+
+msgctxt "Animation style."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Animation style."
+msgid "Slide Down"
+msgstr "Uklizavanje naniže"
+
+msgctxt "Animation style."
+msgid "Slide Left"
+msgstr "Uklizavanje nalijevo"
+
+msgctxt "Animation style."
+msgid "Slide Right"
+msgstr "Uklizavanje nadesno"
+
+msgctxt "Animation style."
+msgid "Slide Up"
+msgstr "Uklizavanje naviše"
+
+msgid "App ID"
+msgstr "ID aplikacije"
+
+msgid "App Password"
+msgstr "Zaporka aplikacije"
+
+msgid "Append New Layout"
+msgstr "Dodaj novi izgled"
+
+msgid ""
+"Are you sure you want to remove this account? Other modules that are "
+"connected to it will be affected."
+msgstr ""
+"Jeste li sigurni da želite ukloniti ovaj račun? Ostali moduli koji su "
+"povezani s njim će biti pogođeni."
+
+msgid "Are you sure?"
+msgstr "Jeste li sigurni?"
+
+msgid "Arrow Color"
+msgstr "Boja strelica"
+
+msgid "Arrows"
+msgstr "Strelice"
+
+msgid ""
+"As you add product categories in the WooCommerce Products area, each will be "
+"assigned a unique ID. This ID can be found by hovering on the category in "
+"the categories area under Products and looking in the URL that is displayed "
+"in your browser. The ID will be the only number value in the URL."
+msgstr ""
+"Kako dodajete kategorije proizvoda u području WooCommerce proizvoda, svakoj "
+"će se dodijeliti jedinstveni ID. Ovaj ID možete naći lebdenjem preko "
+"kategorije u području kategorija pod Proizvodi i pogledati u URL koji se "
+"prikazuje u pregledniku. ID će biti samo brojčana vrijednost u URL-u."
+
+msgid ""
+"As you add product categories in the WooCommerce Products area, each will be "
+"assigned a unique slug or you can edit and add your own. These slugs can be "
+"found in the Categories area under WooCommerce Products. Several can be "
+"added here separated by a comma."
+msgstr ""
+"Kako dodajete kategorije poizvoda u područje WooCommerce proizvoda, svakom "
+"će biti dodijeljen jedinstveni slug ili vi možete urediti i dodati vlastite. "
+"Ove slugove možete naći u području Kategorija pod WooCommerce Proizvodi. "
+"Možete ih dodati i nekoliko odvojene zarezom."
+
+msgid ""
+"As you add products in the WooCommerce Products area, each will be assigned "
+"a unique ID. You can find this unique product ID by visiting the Products "
+"area and rolling over the product. The unique ID will be the first attribute "
+"and you can add several here separated by a comma."
+msgstr ""
+"Kako dodajete proizvode u području WooCommerce proizvoda, svakom će se "
+"dodijeliti jedinstveni ID. Ovaj jedinstveni ID proizvoda možete pronaći "
+"posjetom područja proizvoda i prevrtanjem proizvoda. Jedinstveni ID će biti "
+"prvi atribut, a možete dodati i nekoliko odvojenih zarezom."
+
+msgid ""
+"As you add products in the WooCommerce Products area, each will be assigned "
+"a unique ID. You can find this unique product ID by visiting the Products "
+"area and rolling over the product. The unique ID will be the first attribute."
+msgstr ""
+"Kako dodajete proizvode u području WooCommerce proizvoda, svakom će se "
+"dodijeliti jedinstveni ID. Možete pronaći ovaj jedinstveni ID proizvoda "
+"posjetom području proizvoda i preći preko proizvoda. Jedinstveni ID će biti "
+"prvi atribut."
+
+msgid "Ascending"
+msgstr "Uzlazno"
+
+msgid "Attachment"
+msgstr "Prilog"
+
+msgid ""
+"Attachment will specify how the image reacts when scrolling a page. When "
+"scrolling is selected, the image will scroll with page scrolling. This is "
+"the default setting. Fixed will allow the image to scroll within the "
+"background if fill is selected in the scale setting."
+msgstr ""
+"Prilog će odrediti kako slika reagira prilikom pomicanja stranice. Kada je "
+"odabrano pomicanje, slika se pomiče sa pomicanjem stranice. Ovo je default, "
+"zadana postavka. Fiksno omogućava prikaz pomicanja slike s pozadinom, ako je "
+"odabrana ispuna u postavkama razmjera."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio File Selected"
+msgstr "Audio datoteka odabrana"
+
+msgid "Audio Files Selected"
+msgstr "Audio datoteke odabrane"
+
+msgid "Audio Type"
+msgstr "Audio vrsta"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Authorization Code"
+msgstr "Autorizacijski Kod"
+
+msgid "Authors"
+msgstr "Autori"
+
+msgid "Auto Play"
+msgstr "Automatski pokreni"
+
+msgid ""
+"Auto will allow the overlay to fit however long the text content is. 100% "
+"will fit the overlay to the top and bottom of the slide."
+msgstr ""
+"Automatski će omogućiti prekrivanje ispune tako da stane koliko god je "
+"sadržaja teksta. 100% će prekriti vrh i dno slajda."
+
+msgid "Background"
+msgstr "Pozadina"
+
+msgid "Background Color"
+msgstr "Boja pozadine"
+
+msgid "Background Hover Color"
+msgstr "Boja pozadine lebdenja"
+
+msgid "Background Hover Opacity"
+msgstr "Neprozirnost pozadine prilikom lebdenja"
+
+msgid "Background Layout"
+msgstr "Izgled pozadine"
+
+msgid "Background Opacity"
+msgstr "Neprozirnost pozadine"
+
+msgid "Background Overlay"
+msgstr "Prekrivanje pozadine"
+
+msgid "Background Parallax"
+msgstr "Pozadina Parallaxe"
+
+msgid "Background Photo"
+msgstr "Pozadina Foto"
+
+msgid "Background Slideshow"
+msgstr "Pozadinski Slideshow"
+
+msgid "Background Video"
+msgstr "Pozadinski video"
+
+msgid "Background Video Code"
+msgstr "Kod video pozadine"
+
+msgctxt "Background height."
+msgid "Auto"
+msgstr "Automatski"
+
+msgctxt "Background repeat."
+msgid "Horizontal"
+msgstr "Vodoravno"
+
+msgctxt "Background repeat."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Background repeat."
+msgid "Tile"
+msgstr "Popločeno"
+
+msgctxt "Background repeat."
+msgid "Vertical"
+msgstr "Uspravno"
+
+msgctxt "Background scale."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Background type."
+msgid "Color"
+msgstr "Boja"
+
+msgctxt "Background type."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Background type."
+msgid "Parallax"
+msgstr "Parallax"
+
+msgctxt "Background type."
+msgid "Photo"
+msgstr "Slika"
+
+msgctxt "Background type."
+msgid "Slideshow"
+msgstr "Slideshow"
+
+msgctxt "Background type."
+msgid "Video"
+msgstr "Video"
+
+msgid "Backgrounds"
+msgstr "Pozadine"
+
+msgid "Bar Background Color"
+msgstr "Boja pozadine trake"
+
+msgid "Bar Foreground Color"
+msgstr "Boja prednje trake"
+
+msgid "Bar Styles"
+msgstr "Stilovi trake"
+
+msgid "Bars"
+msgstr "Trake"
+
+msgid "Bars Counter"
+msgstr "Traka brojač"
+
+msgid "Basic Modules"
+msgstr "Osnovni moduli"
+
+msgid "Be sure to add your license key for access to updates and new features."
+msgstr ""
+"Svakako dodajte ključ licence za pristup nadogradnjama i novim mogućnostima."
+
+msgid "Beautiful pre-made layout templates."
+msgstr "Prekrasni, unaprijed napravljeni predlošci izgleda."
+
+msgid "Beaver Builder 1.9 is out and it has some epic new features:"
+msgstr "Beaver Builder 1.9 je vani i ima neke nove epske značajke:"
+
+msgid ""
+"Beaver Builder caught the following JavaScript error. If Beaver Builder is "
+"not functioning as expected the cause is most likely this error. Please help "
+"us by disabling all plugins and testing Beaver Builder while reactivating "
+"each to determine if the issue is related to a third party plugin."
+msgstr ""
+"Beaver Builder je uhvatio sljedeću JavaScript grešku. Ako Beaver Builder ne "
+"radi kao što se očekuje uzrok je najvjerojatnije ova greška. Molimo da nam "
+"pomognete tako što ćete onemogućiti sve dodatke i testirati Beaver Builder "
+"tako što ćete ponovo aktivirati dodatak po dodatak kako bi se utvrdilo je li "
+"problem vezan uz dodatak od treće strane."
+
+msgid ""
+"Beaver Builder may not be functioning correctly as it does not have "
+"permission to write files to the WordPress uploads directory on your server. "
+"Please update the WordPress uploads directory permissions before continuing "
+"or contact your host for assistance."
+msgstr ""
+"Beaver Builder možda neće funkcionirati ispravno jer nema odobrenje da "
+"zapisuje datoteke u WordPress uploads direktorij na vašem serveru. Molimo "
+"da, prije nego nastavite, ažurirate odobrenja za WorddPress uploads "
+"direktorij ili kontaktirajte vaš host za pomoć."
+
+msgid "Before Text"
+msgstr "Prije teksta"
+
+msgid "Below Bar"
+msgstr "Ispod trake"
+
+msgid "Below Heading"
+msgstr "Ispod naslova"
+
+msgid "Below Photo"
+msgstr "Ispod slike"
+
+msgid "Below Text"
+msgstr "Ispod teksta"
+
+msgid "Best Selling Products"
+msgstr "Najprodavaniji proizvodi"
+
+msgid "Blinds"
+msgstr "Rolete"
+
+msgid "Border"
+msgstr "Obrub"
+
+msgid "Border Color"
+msgstr "Boja obruba"
+
+msgid "Border Radius"
+msgstr "Polumjer obruba"
+
+msgid "Border Size"
+msgstr "Veličina obruba"
+
+msgid "Border Style"
+msgstr "Stil obruba"
+
+msgctxt "Border size."
+msgid "Large"
+msgstr "Veliko"
+
+msgctxt "Border size."
+msgid "Medium"
+msgstr "Srednje"
+
+msgctxt "Border size."
+msgid "Small"
+msgstr "Malo"
+
+msgctxt "Border type."
+msgid "Dashed"
+msgstr "Crtice"
+
+msgctxt "Border type."
+msgid "Dotted"
+msgstr "Točkice"
+
+msgctxt "Border type."
+msgid "Double"
+msgstr "Dvostruko"
+
+msgctxt "Border type."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Border type."
+msgid "Solid"
+msgstr "Neprekidno"
+
+msgid "Bottom"
+msgstr "Dno"
+
+msgid "Bottom Margin"
+msgstr "Margina na dnu"
+
+msgid "Bottom Width"
+msgstr "Širina dno"
+
+msgid "Box Border"
+msgstr "Obrub okvira"
+
+msgid "Box Foreground"
+msgstr "Prednji dio okvira"
+
+msgid "Box Top Margin"
+msgstr "Margina okvira na vrhu"
+
+msgid "Boxes"
+msgstr "Okviri"
+
+msgid "Boxes Grow"
+msgstr "Okviri rastu"
+
+msgid "Branding"
+msgstr "Brendiranje"
+
+msgid "Build your own custom modules."
+msgstr "Izgradi vlastite module."
+
+msgid "Button"
+msgstr "Dugme"
+
+msgid "Button Colors"
+msgstr "Boje dugmeta"
+
+msgid "Button Icon"
+msgstr "Ikona dugmeta"
+
+msgid "Button Icon Position"
+msgstr "Pozicija ikone dugmeta"
+
+msgid "Button Link"
+msgstr "Link dugmeta"
+
+msgid "Button Structure"
+msgstr "Struktura dugmeta"
+
+msgid "Button Style"
+msgstr "Stil dugmeta"
+
+msgid "Button Text"
+msgstr "Tekst dugmeta"
+
+msgid "Button URL"
+msgstr "URL dugmeta"
+
+msgid "Button Width"
+msgstr "Širina dugmeta"
+
+msgid "Buttons"
+msgstr "Dugmad"
+
+msgid "Buy Now <i class=\"fa fa-external-link-square\"></i>"
+msgstr "Kupi Sada <i class=\"fa fa-external-link-square\"></i>"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS Class"
+msgstr "CSS class"
+
+msgid "CSS Selector"
+msgstr "CSS Selector"
+
+msgid "Cache"
+msgstr "Lokalna pohrana"
+
+msgid "Call To Action"
+msgstr "Poziv na akciju"
+
+msgid "Call to Action"
+msgstr "Poziv na akciju"
+
+msgctxt "Call to action."
+msgid "None"
+msgstr "Ništa"
+
+msgid "Callout"
+msgstr "Oblačić"
+
+msgid "Cancel"
+msgstr "Odustani"
+
+msgid "Capitalize"
+msgstr "Velika početna slova"
+
+msgid "Caption"
+msgstr "Opis"
+
+msgid "Caption Button"
+msgstr "Dugme opisa"
+
+msgid "Cart"
+msgstr "Košarica"
+
+msgid "Categories"
+msgstr "Kategorije"
+
+msgid "Category Slug"
+msgstr "Slug kategorije"
+
+msgid "Center"
+msgstr "Sredina"
+
+msgid "Center Bottom"
+msgstr "Sredina Dno"
+
+msgid "Center Top"
+msgstr "Sredina Vrh"
+
+msgid "Change Template"
+msgstr "Promjeni predložak"
+
+msgid "Change Templates"
+msgstr "Promjeni predloške"
+
+msgid "Check or uncheck modules below to enable or disable them."
+msgstr "Označi ili odznači module ispod da biste ih omogućili ili onemogućili."
+
+msgid "Checkout"
+msgstr "Blagajna"
+
+msgid "Choose Another Photo"
+msgstr "Odaberi drugu sliku"
+
+msgid "Choose a Template"
+msgstr "Odaberite predložak"
+
+msgid "Choose whether to show or hide this column at different device sizes."
+msgstr ""
+"Odaberite želite li prikazati ili sakriti ovaj stupac u različitim "
+"veličinama uređaja."
+
+msgid "Choose whether to show or hide this module at different device sizes."
+msgstr ""
+"Odaberite želite li prikazati ili sakriti ovaj modul na različitim "
+"veličinama uređaja."
+
+msgid "Choose whether to show or hide this row at different device sizes."
+msgstr ""
+"Odaberite želite li prikazati ili sakriti ovaj redak u različitim veličinama "
+"uređaja."
+
+msgid "Choose..."
+msgstr "Odaberi..."
+
+msgid ""
+"Choosing no will hide the default theme heading for the \"Page\" post type. "
+"You will also be required to enter some basic CSS for this to work if you "
+"choose no."
+msgstr ""
+"Ako odaberete NE, to neće sakriti naslov zadane teme za \"Stranica\" vrstu "
+"objave. Također ćete trebati unijeti neke osnovne CSS da bi ovo radilo ako "
+"vi odaberete NE."
+
+msgid "Choosing yes will expand the first item by default."
+msgstr "Odabirom Da prva stavka će se proširiti po defaultu."
+
+msgid ""
+"Choosing yes will keep only one item open at a time. Choosing no will allow "
+"multiple items to be open at the same time."
+msgstr ""
+"Odabir DA će čuvati samo jednu stavku otvorenu istovremeno. Odabir NE će "
+"dopustiti da više stavaka bude otvoreno istovremeno."
+
+msgid "Circle"
+msgstr "Krug"
+
+msgid "Circle Background Color"
+msgstr "Boja pozadine kruga"
+
+msgid "Circle Bar Styles"
+msgstr "Stilovi trake kruga"
+
+msgid "Circle Counter"
+msgstr "Krug brojač"
+
+msgid "Circle Foreground Color"
+msgstr "Boja prednjeg kruga"
+
+msgid "Circle Size"
+msgstr "Veličina kruga"
+
+msgid "Circle Stroke Size"
+msgstr "Veličina poteza kruga"
+
+msgid "Circle Styles"
+msgstr "Stilovi kruga"
+
+msgid "Class"
+msgstr "Class"
+
+msgid "Clear Cache"
+msgstr "Očisti predmemoriju"
+
+msgid "Click Action"
+msgstr "Klik Akcija"
+
+msgid "Click Here"
+msgstr "Klikni Ovdje"
+
+msgctxt "Click action type."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Click action."
+msgid "None"
+msgstr "Ništa"
+
+msgid ""
+"Clicking the button below will uninstall the page builder plugin and delete "
+"all of the data associated with it. You can uninstall or deactivate the page "
+"builder from the plugins page instead if you do not wish to delete the data."
+msgstr ""
+"Klik na dugme ispod će deinstalirati dodatak graditelja stranice i obrisati "
+"sve pripadajuće podatke. Možete deinstalirati ili deaktivirati graditelja "
+"stranice iz stranice s dodacima ukoliko ne želite obrisati podatke."
+
+msgid "Collage"
+msgstr "Kolaž"
+
+msgid "Collapse Inactive"
+msgstr "Sažmi neaktivno"
+
+msgid "Colon"
+msgstr "Dvotočka"
+
+msgid "Color"
+msgstr "Boja"
+
+msgid "Color Picker"
+msgstr "Birač boje"
+
+msgid "Color Presets"
+msgstr "Određene postavke boja"
+
+msgctxt "Color."
+msgid "Dark"
+msgstr "Tamna"
+
+msgctxt "Color."
+msgid "Light"
+msgstr "Svijetla"
+
+msgid "Colors"
+msgstr "Boje"
+
+msgid "Column"
+msgstr "Stupac"
+
+msgid "Column Settings"
+msgstr "Postavke stupaca"
+
+msgid "Column Width"
+msgstr "Širina stupca"
+
+msgid "Columns"
+msgstr "Stupci"
+
+msgid ""
+"Come by and share a project, ask a question, or just say hi! For news about "
+"new features and updates, like our <a href=\"https://www.facebook.com/"
+"wpbeaverbuilder/\" target=\"_blank\">Facebook Page</a> or follow us <a href="
+"\"https://twitter.com/beaverbuilder\" target=\"_blank\">on Twitter</a>."
+msgstr ""
+"Dođite i podijelite s nama projekte, pitajte, ili jednostavno kažite zdravo! "
+"Za novosti o novim značajkama i ažuriranjima, lajkajte našu <a href="
+"\"https://www.facebook.com/wpbeaverbuilder/\" target=\"_blank\">Facebook "
+"Stranicu</a> ili nas slijedite <a href=\"https://twitter.com/beaverbuilder\" "
+"target=\"_blank\">na Twitteru</a>."
+
+msgid ""
+"Come by the Beaver Builder Homepage to learn more about what our premium "
+"features can do for you!"
+msgstr ""
+"Dođite na Beaver Builder stranicu i saznajte više o tome što premium "
+"značajke mogu učiniti za vas!"
+
+msgid "Comment Count"
+msgstr "Broj komentara"
+
+msgid "Comments"
+msgstr "Komentari"
+
+msgid "Compact"
+msgstr "Zbijeno"
+
+msgid "Connect"
+msgstr "Poveži"
+
+msgctxt "Connection data such as an API key."
+msgid "Error: Missing service data."
+msgstr "Greška: Nedostaju podaci usluge."
+
+msgid "Contact Form"
+msgstr "Kontakt Obrazac"
+
+msgid "Contact Form Submission"
+msgstr "Podnesak kontakt obrasca"
+
+msgid "Contact Support"
+msgstr "Kontaktirajte Podršku"
+
+msgid "Contact Support URL"
+msgstr "Kontaktirajte Podršku URL"
+
+msgctxt "Contact form field label."
+msgid "Name"
+msgstr "Naziv"
+
+msgid "Content"
+msgstr "Sadržaj"
+
+msgid "Content Alignment"
+msgstr "Poravnanje sadržaja"
+
+msgid "Content Layout"
+msgstr "Izgled sadržaja"
+
+msgid "Content Pages"
+msgstr "Stranice sa sadržajem"
+
+msgid "Content Slider"
+msgstr "Slider sadržaj"
+
+msgid "Content Type"
+msgstr "Vrsta sadržaja"
+
+msgid "Content Width"
+msgstr "Širina sadržaja"
+
+msgctxt "Content type."
+msgid "None"
+msgstr "Ništa"
+
+msgid "Control Bar"
+msgstr "Kontrolna traka"
+
+msgid "Control Bar Buttons"
+msgstr "Kontrolna traka dugmadi"
+
+msgid "Control Bar Overlay"
+msgstr "Kontrolna traka prekrivanje"
+
+msgid ""
+"Control bar overlay specifies if the control bar buttons you choose overlay "
+"your slideshow images or site below the slideshow completely."
+msgstr ""
+"Kontrolna traka prekrivanja određuje ako dugmad kontrolne trake koju ste "
+"izabrali prekriva vaše slajd slike ili stranicu ispod slajdova u potpunosti."
+
+msgid "Controls"
+msgstr "Kontrole"
+
+msgid "Countdown"
+msgstr "Odbrojavanje"
+
+msgid "Create Gallery"
+msgstr "Kreiraj galeriju"
+
+msgid "Crop"
+msgstr "Obreži"
+
+msgid ""
+"Crop set to no will fit the slideshow images to the height you specify and "
+"keep the width proportional, whereas crop set to yes will fit the slideshow "
+"images to all sides of the content area while cropping the left and right to "
+"fit the height you specify."
+msgstr ""
+"Obrezivanje postavljeno na Ne će ispuniti slajdove slika na visinu koju ste "
+"naveli i zadržati širinu proporcionalnom, a obrezivanje postavljeno na Da će "
+"ispuniti slajdove slika na sve strane područja sadržaja, dok će obrezivanje "
+"lijevo i desno ispuniti visinu koju ste odredili."
+
+msgid "Current Page"
+msgstr "Trenutna stranica"
+
+msgid "Custom"
+msgstr "Prilagođeno"
+
+msgid "Custom Alignment"
+msgstr "Prilagođeno poravnanje"
+
+msgid "Custom Font Size"
+msgstr "Veličina prilagođenog fonta"
+
+msgid "Custom Letter Spacing"
+msgstr "Prilagođeni razmak između slova"
+
+msgid "Custom Line Height"
+msgstr "Prilago]ena visina retka"
+
+msgid "Custom Medium Device Width"
+msgstr "Prilagođena srednja širina uređaja"
+
+msgid "Custom Small Device Width"
+msgstr "Prilagođena širina malih uređaja"
+
+msgid "Custom URL"
+msgstr "Prilagođeni URL"
+
+msgid "Custom Width"
+msgstr "Prilagođena širina"
+
+msgctxt "Custom post type label."
+msgid "Add New"
+msgstr "Dodaj novi"
+
+msgctxt "Custom post type label."
+msgid "Template"
+msgstr "Predložak"
+
+msgctxt "Custom post type label."
+msgid "Templates"
+msgstr "Predlošci"
+
+msgctxt "Custom taxonomy label."
+msgid "Categories"
+msgstr "Kategorije"
+
+msgctxt "Custom taxonomy label."
+msgid "Type"
+msgstr "Vrsta"
+
+msgid "Dark"
+msgstr "Tamno"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Format"
+msgstr "Format datuma"
+
+msgid "Date Last Modified"
+msgstr "Datum zadnje izmjene"
+
+msgid "Day"
+msgstr "Dan"
+
+msgid "Days"
+msgstr "Dani"
+
+msgid "Deactivated!"
+msgstr "Deaktivirano!"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Default Page Heading"
+msgstr "Default naslov stranice"
+
+msgid "Default Row Content Width"
+msgstr "Default širina sadržaja retka"
+
+msgid "Default Row Width"
+msgstr "Default širina retka"
+
+msgctxt "Default user template category."
+msgid "Uncategorized"
+msgstr "Nekategorizirano"
+
+msgid "Delay"
+msgstr "Odgoda"
+
+msgid "Delete"
+msgstr "Obriši"
+
+msgid "Delete Column"
+msgstr "Obriši stupac"
+
+msgid "Descending"
+msgstr "Silazno"
+
+msgid "Disable All Templates"
+msgstr "Onemogući sve predloške"
+
+msgid "Disable Right-Click"
+msgstr "Onemogući desni klik"
+
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+msgid "Discard Changes and Exit"
+msgstr "Odbaci promjene i Izađi"
+
+msgid "Display"
+msgstr "Prikaz"
+
+msgid "Display a Google map."
+msgstr "Prikazuje Google kartu."
+
+msgid ""
+"Display a WordPress sidebar that has been registered by the current theme."
+msgstr ""
+"Prikaz WordPress bočne trake koja je registrirana od strane trenutne teme."
+
+msgid "Display a WordPress widget."
+msgstr "Prikazuje WordPress widget."
+
+msgid "Display a carousel of your WordPress posts."
+msgstr "Prikazuje vrtuljak vaših WordPress objava."
+
+msgid "Display a collapsible accordion of items."
+msgstr "Prikaži sklopivu harmoniku stavki."
+
+msgid "Display a collection of tabbed content."
+msgstr "Prikaz zbirke kartica sadržaja."
+
+msgid "Display a grid of your WordPress posts."
+msgstr "Prikazuje mrežu vaših WordPress objava."
+
+msgid "Display a group of linked Font Awesome icons."
+msgstr "Prikaz grupu povezanu s Font Awesome."
+
+msgid "Display a heading, subheading and a button."
+msgstr "Prikazuje naslov, podnaslov i dugme."
+
+msgid "Display a slider of your WordPress posts."
+msgstr "Prikazuje slajder vaših WordPress objava."
+
+msgid "Display a title/page heading."
+msgstr "Prikazuje naslov naslova/stranice."
+
+msgid "Display an icon and optional title."
+msgstr "Prikazuje ikonu i neobavezni naslov."
+
+msgid "Display multiple photos in a gallery view."
+msgstr "Prikazuje više slika u prikazu galerije."
+
+msgid "Display multiple photos in a slideshow view."
+msgstr "Prikazuje više slika u prikazu slajdova."
+
+msgid "Display products or categories from your WooCommerce store."
+msgstr "Prikazuje proizvode ili kategorije iz vaše WooCommerce trgovine."
+
+msgid "Display raw HTML code."
+msgstr "Prikazuje sirovi HTML kod."
+
+msgid "Displays multiple slides with an optional heading and call to action."
+msgstr "Prikazuje više slajdova s neobaveznim naslovom i pozivom na akciju."
+
+msgid "Displays social buttons."
+msgstr "Prikazuje društvenu dugmad."
+
+msgid "Do you really want to delete this column?"
+msgstr "Jeste li sigurni da želite obrisati ovaj stupac?"
+
+msgid "Do you really want to delete this item?"
+msgstr "Jeste li sigurni da želite obrisati ovu stavku?"
+
+msgid "Do you really want to delete this module?"
+msgstr "Jeste li sigurni da želite obrisati ovaj modul?"
+
+msgid "Do you really want to delete this row?"
+msgstr "Jeste li sigurni da želite obrisati ovaj redak?"
+
+msgid "Do you really want to delete this template?"
+msgstr "Da li zaista želite obrisati ovaj predložak?"
+
+msgid ""
+"Do you really want to discard these changes? All of your changes that are "
+"not published will be lost."
+msgstr ""
+"Jeste li sigurni da želite odbaciti ove promjene? Sve vaše promjene koje "
+"nisu objavljene bit će izgubljene."
+
+msgid "Done"
+msgstr "Gotovo"
+
+msgid "Dot Color"
+msgstr "Boja točki"
+
+msgid "Drop a row layout or module to get started!"
+msgstr "Ispusti izgled retka ili modul za početak!"
+
+msgid "Drop us a line today for a free quote!"
+msgstr ""
+"Pošaljite nam danas kratku poruku i poslat ćemo vam neobavezujuću ponudu!"
+
+msgid "Duplicate"
+msgstr "Dupliciraj"
+
+msgctxt "Duplicate page/post action label."
+msgid "Duplicate Layout"
+msgstr "Dupliciraj izgled"
+
+msgid "Duration"
+msgstr "Trajanje"
+
+msgid ""
+"ERROR! We were unable to connect to the update server. If the issue "
+"persists, please contact your host and let them know your website cannot "
+"connect to updates.wpbeaverbuilder.com."
+msgstr ""
+"GREŠKA! Nismo u mogućnosti povezati se na server za ažuriranje. Ako se ovaj "
+"problem i dalje javlja, molimo kontaktirajte vaš host i recite im da se vaša "
+"web stranica ne može povezati na updates.wpbeaverbuilder.com."
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Edit Column"
+msgstr "Uredi Stupac"
+
+msgid "Edit Content"
+msgstr "Uredi sadržaj"
+
+msgid "Edit Gallery"
+msgstr "Uredi galeriju"
+
+msgid "Edit Playlist"
+msgstr "Uređivanje popisa za reprodukciju"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email Address"
+msgstr "Email adresa"
+
+msgid "Email Field"
+msgstr "Polje email"
+
+msgid "Embed"
+msgstr "Umetni"
+
+msgid "Enable All Templates"
+msgstr "Omogući sve predloške"
+
+msgid "Enable Audio"
+msgstr "Omogući audio"
+
+msgid "Enable Contact Support"
+msgstr "Omogućite kontaktiranje podrške"
+
+msgid "Enable Core Templates Only"
+msgstr "Omogući samo temeljne predloške"
+
+msgid "Enable Help Button"
+msgstr "Omogući dugme za pomoć"
+
+msgid "Enable Help Tour"
+msgstr "Omogući obilazak pomoći"
+
+msgid "Enable Help Video"
+msgstr "Omogući video pomoć"
+
+msgid "Enable Knowledge Base"
+msgstr "Omogući bazu znanja"
+
+msgid "Enable Templates"
+msgstr "Omogući predloške"
+
+msgid "Enable User Templates Only"
+msgstr "Omogući samo korisnikove predloške"
+
+msgid "Enabled"
+msgstr "Omogućeno"
+
+msgid "Enabled Modules"
+msgstr "Omogućeni moduli"
+
+msgid "Enter License Key"
+msgstr "Unesite licencni ključ"
+
+msgid "Enter a CSS selector for the default page heading to hide it."
+msgstr "Unesite CSS selektor za default naslov stranice da biste ga sakrili."
+
+msgid ""
+"Enter a comma separated list of the post types you would like the builder to "
+"work with."
+msgstr ""
+"Unesite zarezom odvojen popis vrsta objava s kojima želite raditi s "
+"graditeljom."
+
+msgid "Enter a post title to search."
+msgstr "Unesite naslov objave za pretraživanje."
+
+msgid ""
+"Enter the ID of a site on the network whose templates should override core "
+"builder templates. Leave this field blank if you do not wish to override "
+"core templates."
+msgstr ""
+"Unesite ID stranice na mreži na kojoj ovi predlošci trebaju nadjačati "
+"temeljne predloške graditelja. Ostavite ovo polje prazno ako ne želite "
+"nadjačati temeljne predloške."
+
+msgid "Enter your <a%s>license key</a> to enable remote updates and support."
+msgstr ""
+"Unesite svoj <a%s>licencni ključ</a> da omogućite ažuriranja i podršku."
+
+msgid "Equal Heights"
+msgstr "Jednaka visina"
+
+msgid "Equalize Column Heights"
+msgstr "Izjednači visine stupaca"
+
+msgid "Error! A site with that ID doesn't exist."
+msgstr "Greška! Stranica sa ovim ID ne postoji."
+
+msgid "Error! Could not unzip file."
+msgstr "Greška! Nije moguće otpakirati zip datoteku."
+
+msgid "Error! Please enter a date that is in the future."
+msgstr "Greška! Unesite datum koji je u budućnosti."
+
+msgid "Error! Please enter a number for the site ID."
+msgstr "Greška! Molimo unesite broj za ID stranice."
+
+msgid "Error! Please enter a valid day."
+msgstr "Greška! Unesite valjani dan."
+
+msgid "Error! Please enter a valid month."
+msgstr "Greška! Unesite valjani mjesec."
+
+msgid "Error! Please enter a valid year."
+msgstr "Greška! Unesite valjanu godinu."
+
+msgid "Error! Please enter an iframe for the video embed code."
+msgstr "Greška! Molimo unesite iframe kod za ugraditi video."
+
+msgid "Error! Please upload an icon set from either Icomoon or Fontello."
+msgstr "Greška! Molimo učitajte set ikona iz Icomoon ili Fontello."
+
+msgid "Error! You must have at least one feature of the help button enabled."
+msgstr "Greška! Morate imati omogućenu barem jednu značajku dugmeta za pomoć."
+
+msgid "Error! You must have at least one icon set enabled."
+msgstr "Greška! Morate imati najmanje jednu ikonu omogućenu."
+
+msgid "Error: Could not connect to Campayn. %s"
+msgstr "Greška: Nije moguće povezati se na Campayn. %s"
+
+msgid "Error: Could not connect to Constant Contact. %s"
+msgstr "Greška: Nije moguće povezati se na Constant Contact. %s"
+
+msgid "Error: Could not connect to MailerLite. %s"
+msgstr "Greška: Nije moguće spajanje na MailerLite. %s"
+
+msgid "Error: Could not connect to Mailrelay. %s"
+msgstr "Greška: Nije moguće povezati se na Mailrelay. %s"
+
+msgid "Error: Could not connect to SendinBlue. %s"
+msgstr "Greška: Nije moguće povezati se na SendinBlue. %s"
+
+msgid "Error: Could not connect to Sendy. %s"
+msgstr "Greška: Nije moguće povezati se na Sendy. %s"
+
+msgid "Error: Could not connect to iContact. %s"
+msgstr "Greška: Nije moguće povezati se na iContact. %s"
+
+msgid "Error: Could not subscribe to SendinBlue. %s"
+msgstr "Greška: Nije moguće pretplatiti se na SendinBlue. %s"
+
+msgid "Error: Invalid API data."
+msgstr "Greška: nevažeći API podaci."
+
+msgid "Error: Please check your API URL and API key."
+msgstr "Greška: Molimo provjerite svoj API URL i API ključ."
+
+msgid "Error: Please check your API key."
+msgstr "Greška: Provjerite svoj API ključ."
+
+msgid "Error: Please check your API key. %s"
+msgstr "Greška: Provjerite svoj API ključ. %s"
+
+msgid "Error: Please check your API token. %s"
+msgstr "Greška: Provjerite svoj API token. %s"
+
+msgid "Error: Please check your Account ID. %s"
+msgstr "Greška: Molimo provjerite svoj ID računa. %s"
+
+msgid "Error: Please enter a valid Authorization Code."
+msgstr "Greška: Molimo unesite valjani Autorizacijski kod."
+
+msgid "Error: You must provide a Host."
+msgstr "Greška: Morate navesti Host."
+
+msgid "Error: You must provide a app ID."
+msgstr "Greška: Morate navesti ID aplikacije."
+
+msgid "Error: You must provide a app password."
+msgstr "Greška: Morate navesti zaporku aplikacije."
+
+msgid "Error: You must provide a list ID."
+msgstr "Greška: Morate navesti ID popisa."
+
+msgid "Error: You must provide a username."
+msgstr "Greška: Morate navesti korisničko ime."
+
+msgid "Error: You must provide an API URL."
+msgstr "Greška: Morate navesti API URL."
+
+msgid "Error: You must provide an API key."
+msgstr "Greška: Morate navesti API ključ."
+
+msgid "Error: You must provide an API token."
+msgstr "Greška: Morate navesti API token."
+
+msgid "Error: You must provide an Access Key."
+msgstr "Greška: Morate navesti Pristupni ključ."
+
+msgid "Error: You must provide an Account ID."
+msgstr "Greška: Morate navesti ID računa."
+
+msgid "Error: You must provide an Authorization Code."
+msgstr "Greška: Morate navesti Autorizacijski kod."
+
+msgid "Error: You must provide an access token."
+msgstr "Greška: Morate navesti pristupni token."
+
+msgid "Error: You must provide an app ID."
+msgstr "Greška: Morate navesti ID aplikacije."
+
+msgid "Error: You must provide an email address."
+msgstr "Greška: Morate navesti email adresu."
+
+msgid "Error: You must provide your Sendy installation URL."
+msgstr "Greška: Morate navesti URL vaše Sendy instalacije."
+
+msgid "Example: page, post, product"
+msgstr "Primjer: stranica, objava, proizvod"
+
+msgid "Excerpt"
+msgstr "Izvadak"
+
+msgid "Expand First Item"
+msgstr "Proširi prvu stavku"
+
+msgid "Expanded"
+msgstr "Prošireno"
+
+msgid "Expert support from our world-class support team."
+msgstr "Stručna podrška našeg tima u svijetskoj klasi za podršku."
+
+msgid "Facebook Button"
+msgstr "Facebook dugme"
+
+msgid "Fade"
+msgstr "Isčezavanje"
+
+msgid "Fade In On Hover"
+msgstr "Isčezavanje prilikom lebdenja"
+
+msgid "Fallback Photo"
+msgstr "Zamjenska slika"
+
+msgid "Fast"
+msgstr "Brzo"
+
+msgid "Featured Image"
+msgstr "Istaknuta slika"
+
+msgid "Featured Products"
+msgstr "Istaknuti proizvodi"
+
+msgid "Features Min Height"
+msgstr "Minimalna visina značajki"
+
+msgid "Feed URL"
+msgstr "URL hrana"
+
+msgctxt "Field name to add."
+msgid "Add %s"
+msgstr "Dodaj %s"
+
+msgid "Fill"
+msgstr "Ispuni"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgctxt "First and last name."
+msgid "Name"
+msgstr "Ime"
+
+msgid "Fit"
+msgstr "Prilagodi"
+
+msgid "Fixed"
+msgstr "Fiksno"
+
+msgid "Flat"
+msgstr "Ravno"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Font Size"
+msgstr "Veličina fonta"
+
+msgid "For example, if your number is 10%, your suffix would be \"%\"."
+msgstr "Na primjer, ako je vaš broj 10%, vaš sufiks je \"%\"."
+
+msgid "For example, if your number is US$ 10, your prefix would be \"US$ \"."
+msgstr "Na primjer, ako je vaš broj US$ 10, vaš prefiks će biti \"US$ \"."
+
+msgid ""
+"For more time-saving features and access to our expert support team, <a href="
+"\"%s\" target=\"_blank\">upgrade today</a>."
+msgstr ""
+"Za više značajki koje štede vrijeme i pristup našem stručnom timu za "
+"podršku, <a href=\"%s\" target=\"_blank\">nadogradite danas</a>."
+
+msgid "For multiple tags, separate with comma."
+msgstr "Za više oznaka, odvojite ih zarezom."
+
+msgid "Form"
+msgstr "Obrazac"
+
+msgid "Found in your MailerLite account under Integrations > Developer API."
+msgstr "Pronađite u vašem MailerLite računu pod Integracije > Developer API."
+
+msgid "Found in your Sendy application under Settings."
+msgstr "Nađite u vašoj Sendy aplikaciji pod Settings."
+
+msgid "Full Height"
+msgstr "Puna visina"
+
+msgid "Full Size"
+msgstr "Puna veličina"
+
+msgid "Full Text"
+msgstr "Cijeli tekst"
+
+msgid "Full Width"
+msgstr "Puna širina"
+
+msgid "Full height rows fill the height of the browser window."
+msgstr "Puna visina redaka ispunjava visinu prozora preglednika."
+
+msgid ""
+"Full width content spans the width of the page from edge to edge. Fixed "
+"content is no wider than the Row Max Width set in the Global Settings."
+msgstr ""
+"Puna širina sadržaja obuhvaća širinu stranice od ruba do ruba. Fiksni "
+"sadržaj nije širi od maksimalne širine retka postavljene u Globalnim "
+"Postavkama."
+
+msgid ""
+"Full width rows span the width of the page from edge to edge. Fixed rows are "
+"no wider than the Row Max Width set in the Global Settings."
+msgstr ""
+"Puna širina redaka obuhvaća širinu stranice od ruba do ruba. Fiksni redovi "
+"nisu širi od maksimalne širine retka postavljene u Globalnim Postavkama."
+
+msgid "Fullscreen Button"
+msgstr "Dugme za puni ekran"
+
+msgid "Gallery"
+msgstr "Galerija"
+
+msgctxt "Gallery layout: thumbnails."
+msgid "Thumbs"
+msgstr "Minijature"
+
+msgid "General"
+msgstr "Općenito"
+
+msgctxt ""
+"General settings form field label. Intended meaning: \"Enable auto spacing "
+"for responsive layouts?\""
+msgid "Enable Auto Spacing"
+msgstr "Omogući automatski razmak"
+
+msgctxt ""
+"General settings form field label. Intended meaning: \"Responsive layout "
+"enabled?\""
+msgid "Enabled"
+msgstr "Omogućeno"
+
+msgctxt ""
+"General settings form field label. Intended meaning: \"Show page heading?\""
+msgid "Show"
+msgstr "Prikaži"
+
+msgid "Get Help"
+msgstr "Potražite pomoć"
+
+msgid "Get More Features"
+msgstr "Uzmi više značajki"
+
+msgid "Get Started"
+msgstr "Započnimo"
+
+msgid ""
+"Get started by choosing a layout template to customize, or build a page from "
+"scratch by selecting the blank layout template."
+msgstr ""
+"Započnite odabirom predloška izgleda za prilagodbu, ili gradite stranicu od "
+"nule odabirom predloška s praznim izgledom."
+
+msgid "Getting Started - Building your first page."
+msgstr "Početak rada - Gradnja vaše prve stranice."
+
+msgid "Getting Started Video"
+msgstr "Početak rada Video"
+
+msgid "Global Settings"
+msgstr "Globalne postavke"
+
+msgid ""
+"Global rows and modules can be added to multiple pages and edited in one "
+"place."
+msgstr ""
+"Globalni retci i moduli mogu biti dodani u više stranica i uređivani na "
+"jednom mjestu."
+
+msgid "Google Plus Button"
+msgstr "Google Plus dugme"
+
+msgid "Gradient"
+msgstr "Gradijent"
+
+msgid "Grid"
+msgstr "Mreža"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML Tag"
+msgstr "HTML oznaka"
+
+msgid "Hamburger Icon"
+msgstr "Hamburger ikona"
+
+msgid "Hamburger Icon + Label"
+msgstr "Hamburger ikona + Oznaka"
+
+msgid "Heading"
+msgstr "Naslov"
+
+msgid "Heading Color"
+msgstr "Boja naslova"
+
+msgid "Heading Custom Size"
+msgstr "Prilagođena veličina naslova"
+
+msgid "Heading Size"
+msgstr "Veličina naslova"
+
+msgid "Heading Structure"
+msgstr "Struktura naslova"
+
+msgid "Heading Tag"
+msgstr "Oznaka naslova"
+
+msgid "Height"
+msgstr "Visina"
+
+msgid "Help Button"
+msgstr "Dugme Pomoć"
+
+msgid "Help Button Settings"
+msgstr "Postavke dugmeta za pomoć"
+
+msgid "Help Tour"
+msgstr "Obilazak Pomoći"
+
+msgid "Help Video"
+msgstr "Video Pomoć"
+
+msgid "Help Video Embed Code"
+msgstr "Pomoć video za kod za ugradnju"
+
+msgid "Helpful Tools"
+msgstr "Korisni alati"
+
+msgid "Hide"
+msgstr "Sakrij"
+
+msgid "Highlight"
+msgstr "Naglašeno"
+
+msgid "Horizontal"
+msgstr "Vodoravno"
+
+msgid "Horizontal Padding"
+msgstr "Vodoravna podstava"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Hour"
+msgstr "Sat"
+
+msgid "Hours"
+msgstr "Sati"
+
+msgid "Hover Color"
+msgstr "Boja lebdenja"
+
+msgid "Hover Transition"
+msgstr "Prijelaz lebdenja"
+
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "Pomak"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Icon Colors"
+msgstr "Boje ikone"
+
+msgid "Icon Group"
+msgstr "Ikona grupe"
+
+msgid "Icon Position"
+msgstr "Pozicija ikone"
+
+msgid "Icon Settings"
+msgstr "Postavke ikona"
+
+msgid "Icon Structure"
+msgstr "Struktura ikone"
+
+msgid "Icon Visibility"
+msgstr "Vidljivost ikone"
+
+msgid "Icons"
+msgstr "Ikone"
+
+msgid "Icons for the main site must be managed in the network admin."
+msgstr "S ikonama za glavnu stranicu mora upravljati mreži administrator."
+
+msgid ""
+"If you can't find an answer, consider upgrading to a premium version of "
+"Beaver Builder. Our expert support team is waiting to answer your questions "
+"and help you build your website. <a href=\"%s\" target=\"_blank\">Learn "
+"More</a>."
+msgstr ""
+"Ako ne možete pronaći odgovor, razmislite o nadogradnji na premium verziju "
+"Beaver Buildera. Naš stručni tim za podršku čeka da odgovori na vaša pitanja "
+"i da vam pomogne u građenju vaše web stranice. <a href=\"%s\" target=\"_blank"
+"\">Saznaj Više</a>."
+
+msgid ""
+"If you can't find an answer, feel free to <a href=\"%s\" target=\"_blank"
+"\">send us a message with your question.</a>"
+msgstr ""
+"Ako ne možete naći odgovor, slobodno nam <a href=\"%s\" target=\"_blank"
+"\">pošaljite poruku s pitanjem.</a>"
+
+msgid ""
+"If your overall theme/images are lighter in color, light will display "
+"buttons in a darker color scheme and vice versa for dark."
+msgstr ""
+"Ako su vaše tema/slike pretežno svjetlije boje, svjetla će prikazati dugmad "
+"u tamnijim bojama i obrnuto za tamnu."
+
+msgid "Image"
+msgstr "Slika"
+
+msgid "Image Type"
+msgstr "Vrsta slike"
+
+msgctxt "Image size."
+msgid "Full Size"
+msgstr "Puna veličina"
+
+msgctxt "Image size."
+msgid "Large"
+msgstr "Veliko"
+
+msgctxt "Image size."
+msgid "Medium"
+msgstr "Srednje"
+
+msgctxt "Image size."
+msgid "Thumbnail"
+msgstr "Minijature"
+
+msgctxt "Image type."
+msgid "None"
+msgstr "Ništa"
+
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Uvoz <strong>objava, stranica, komentara, prilagođenih polja, kategorija, i "
+"tagova</strong> iz WordPress datoteke za izvoz."
+
+msgctxt "Indicator for global node templates."
+msgid "Global"
+msgstr "Globalno"
+
+msgid "Inline"
+msgstr "U retku"
+
+msgid "Insert"
+msgstr "Umetni"
+
+msgid "Inside Bar"
+msgstr "Unutar trake"
+
+msgid "Installation URL"
+msgstr "Instalacijski URL"
+
+msgid "Item"
+msgstr "Stavka"
+
+msgid "Item Spacing"
+msgstr "Razmak među stavkama"
+
+msgid "Items"
+msgstr "Stavke"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Join the Community"
+msgstr "Pridružite se zajednici"
+
+msgid "Ken Burns"
+msgstr "Ken Burns"
+
+msgid "Knowledge Base"
+msgstr "Baza znanja"
+
+msgid "Knowledge Base URL"
+msgstr "URL baze znanja"
+
+msgid "Label"
+msgstr "Oznaka"
+
+msgid "Label Size"
+msgstr "Veličina oznake"
+
+msgctxt "Label size."
+msgid "Large"
+msgstr "Velika"
+
+msgctxt "Label size."
+msgid "Medium"
+msgstr "Srednja"
+
+msgctxt "Label size."
+msgid "Small"
+msgstr "Mala"
+
+msgid "Landing Pages"
+msgstr "Landing Stranice"
+
+msgid "Landscape"
+msgstr "Pejzaž"
+
+msgid "Large"
+msgstr "Veliko"
+
+msgid "Large &amp; Medium Devices Only"
+msgstr "Samo veliki i srednji uređaji"
+
+msgid "Large Devices Only"
+msgstr "Samo veliki uređaji"
+
+msgid "Launch Page Builder"
+msgstr "Graditelj Pokrenute Stranice"
+
+msgid "Layout"
+msgstr "Izgled"
+
+msgid "Layout CSS / Javascript"
+msgstr "Izgled CSS / Javascript"
+
+msgid "Layout Preview"
+msgstr "Pregled izgleda"
+
+msgid "Layout Templates"
+msgstr "Predlošci izgleda"
+
+msgid "Learn More"
+msgstr "Saznaj više"
+
+msgid "Left"
+msgstr "Lijevo"
+
+msgid "Left &amp; Right Sidebar"
+msgstr "Lijeva i desna bočna treka"
+
+msgid "Left Bottom"
+msgstr "Lijevo Dno"
+
+msgid "Left Center"
+msgstr "Lijevo Sredina"
+
+msgid "Left Margin"
+msgstr "Margina lijevo"
+
+msgid "Left Sidebar"
+msgstr "Lijeva bočna traka"
+
+msgid "Left Top"
+msgstr "Lijevo Vrh"
+
+msgid "Left Width"
+msgstr "Širina lijevo"
+
+msgid "Left of Heading"
+msgstr "Lijevo od naslova"
+
+msgid "Left of Text and Heading"
+msgstr "Lijevo od teksta i naslova"
+
+msgid "Let's Get Building!"
+msgstr "Idemo graditi!"
+
+msgid "Letter Spacing"
+msgstr "Razmak između slova"
+
+msgid "License"
+msgstr "Licenca"
+
+msgid "License key saved!"
+msgstr "Licencni ključ spremljen!"
+
+msgid "Light"
+msgstr "Svijetlo"
+
+msgid "Lightbox"
+msgstr "Svjetleći okvir"
+
+msgid "Lightbox Content"
+msgstr "Lightbox sadržaj"
+
+msgid "Line"
+msgstr "Linija"
+
+msgid "Line Height"
+msgstr "Visina redka"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Link Background Hover Color"
+msgstr "Boja pozadine linka lebdenje"
+
+msgid "Link Color"
+msgstr "Boja linka"
+
+msgid "Link Format"
+msgstr "Format linka"
+
+msgid "Link Hover Color"
+msgstr "Boja linka lebdenje"
+
+msgid "Link No Follow"
+msgstr "Link ne slijedi"
+
+msgid "Link Size"
+msgstr "Veličina linka"
+
+msgid "Link Target"
+msgstr "Ciljni link"
+
+msgid "Link Type"
+msgstr "Vrsta linka"
+
+msgid "Link URL"
+msgstr "URL linka"
+
+msgctxt "Link placeholder"
+msgid "http://www.example.com"
+msgstr "http://www.primjer.com"
+
+msgid ""
+"Link type applies to how the image should be linked on click. You can choose "
+"a specific URL, the individual photo or a separate page with the photo."
+msgstr ""
+"Vrsta linka odnosi se na to kako slika treba biti povezana na klik. Možete "
+"odabrati određeni URL, pojedinačnu sliku ili zasebnu stranicu sa slikom."
+
+msgctxt "Link type."
+msgid "None"
+msgstr "Ništa"
+
+msgid "List"
+msgstr "Popis"
+
+msgid "List ID"
+msgstr "Popis ID"
+
+msgid "Locked"
+msgstr "Zaključano"
+
+msgid "Logged In User"
+msgstr "Odjavljeni korisnik"
+
+msgid "Logged Out User"
+msgstr "Prijavljeni korisnik"
+
+msgid "Loop"
+msgstr "Petlja"
+
+msgid "Lowercase"
+msgstr "Mala slova"
+
+msgctxt "MailChimp list group."
+msgid "Groups"
+msgstr "Grupe"
+
+msgid "Manage Templates"
+msgstr "Upravljanje predlošcima"
+
+msgid "Map"
+msgstr "Zemljovid"
+
+msgid "Margins"
+msgstr "Margine"
+
+msgid "Max Content Width"
+msgstr "Maksimalna širina sadržaja"
+
+msgid "Max Width"
+msgstr "Maks širina"
+
+msgid "Media Library"
+msgstr "Media Library"
+
+msgid "Medium"
+msgstr "Srednje"
+
+msgid "Medium &amp; Small Devices Only"
+msgstr "Samo srednji i mali uređaji"
+
+msgid "Medium Device Breakpoint"
+msgstr "Prijelomna točka srednjeg uređaja"
+
+msgid "Medium Device Width"
+msgstr "Srednja širina uređaja"
+
+msgid "Medium Devices Only"
+msgstr "Samo srednji uređaji"
+
+msgid "Menu"
+msgstr "Izbornik"
+
+msgid "Menu Alignment"
+msgstr "Poravnanje izbornika"
+
+msgid "Menu Background Color"
+msgstr "Boja pozadine izbornika"
+
+msgid "Menu Background Color (Mobile)"
+msgstr "Boja pozadine izbornika (Mobilno)"
+
+msgid "Menu Background Opacity"
+msgstr "Neprozirnost pozadine izbornika"
+
+msgid "Menu Button"
+msgstr "Dugme izbornika"
+
+msgid "Menu Order"
+msgstr "Pozicija u izborniku"
+
+msgid "Message"
+msgstr "Poruka"
+
+msgid "Message Sent!"
+msgstr "Poruka poslana!"
+
+msgid "Message failed. Please try again."
+msgstr "Poruka nije uspjela. Molimo pokušajte ponovo."
+
+msgid "Minute"
+msgstr "Minuta"
+
+msgid "Minutes"
+msgstr "Minute"
+
+msgid "Mobile Photo"
+msgstr "Mobilna slika"
+
+msgid "Mobile Structure"
+msgstr "Mobilna struktura"
+
+msgid "Mobile Text Colors"
+msgstr "Boja teksta mobilno"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Module Saved!"
+msgstr "Modul spremljen!"
+
+msgctxt "Module settings form tab. Display on mobile devices."
+msgid "Mobile"
+msgstr "Mobilno"
+
+msgid "Modules"
+msgstr "Moduli"
+
+msgid "Month"
+msgstr "Mjesec"
+
+msgid "More"
+msgstr "Više"
+
+msgid "More Link"
+msgstr "Link za više"
+
+msgid "More Link Text"
+msgstr "Tekst za link više"
+
+msgid "Move"
+msgstr "Premjesti"
+
+msgid "Move Column"
+msgstr "Premjesti stupac"
+
+msgid "Move Parent"
+msgstr "Premjesti roditelja"
+
+msgid ""
+"Move your mouse over rows, columns or modules to edit and interact with them."
+msgstr ""
+"Pomaknite mišem preko redaka, stupaca ili modula za uređivanje i "
+"komunicirnje s njima."
+
+msgid "Multiple Products"
+msgstr "Više proizvoda"
+
+msgid "My Account"
+msgstr "Moj Račun"
+
+msgid "NOTE:"
+msgstr "NAPOMENA:"
+
+msgid "NOTE: Not all custom post types may be supported."
+msgstr "NAPOMENA: Nisu podržane sve vrste objava."
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name Field"
+msgstr "Naziv polja"
+
+msgid "Nav Position"
+msgstr "Nav pozicija"
+
+msgid "Nav Type"
+msgstr "Vrsta Nav"
+
+msgctxt "Nav type."
+msgid "None"
+msgstr "Ništa"
+
+msgid "Navigation Arrows"
+msgstr "Navigacijske strelice"
+
+msgid ""
+"Navigational arrows allow the visitor to freely move through the images in "
+"your slideshow. These are larger arrows that overlay your slideshow images "
+"and are separate from the control bar navigational arrows."
+msgstr ""
+"Navigacijske strelice omogućuju posjetitelju da se slobodno kreće kroz slike "
+"u prikazu slajdova. To su veće strelice koje prekrivaju slajdove slika a "
+"odvojene su od kontrolne trake navigacijskih strelica."
+
+msgid "Need Some Help?"
+msgstr "Trebate li pomoć?"
+
+msgid "Never"
+msgstr "Nikada"
+
+msgid "New Column"
+msgstr "Novi stupac"
+
+msgid "New Row"
+msgstr "Novi redak"
+
+msgid "New Window"
+msgstr "Novi prozor"
+
+msgid "New content page templates available in the template selector."
+msgstr "Novi predlošci sa sadržajem stranica dostupni su u biraču predložaka."
+
+msgid "Next"
+msgstr "Slijedeće"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No Group"
+msgstr "Nema grupe"
+
+msgid "No Menus Found"
+msgstr "Nema nađenih izbornika"
+
+msgid "No Photo"
+msgstr "Nema slike"
+
+msgid "No Results Message"
+msgstr "Poruka za Nema rezultata"
+
+msgid "No Thanks"
+msgstr "Ne hvala"
+
+msgid "No results found."
+msgstr "Nema nađenih rezultata."
+
+msgid "No saved modules found."
+msgstr "Nema nađenih spremljenih modula."
+
+msgid "No saved rows found."
+msgstr "Nema nađenih spremljenih redaka."
+
+msgid "None"
+msgstr "Ništa"
+
+msgid "Not Active!"
+msgstr "Nije aktivno!"
+
+msgid ""
+"Now that you know the basics, you're ready to start building! If at any time "
+"you need help, click the help icon in the upper right corner to access the "
+"help menu. Happy building!"
+msgstr ""
+"Sada kada znate osnove, spremni ste početi graditi! Ako vam je u bilo koje "
+"vrijeme potrebna pomoć, kliknite na ikonu za pomoć u gornjem desnom kutu da "
+"biste pristupili izborniku za pomoć. Sretno građenje!"
+
+msgid "Number"
+msgstr "Broj"
+
+msgid "Number Background Color"
+msgstr "Boja pozadine brojeva"
+
+msgid "Number Background Opacity"
+msgstr "Neprozirnost pozadine brojeva"
+
+msgid "Number Border Radius"
+msgstr "Polumjer obruba brojeva"
+
+msgid "Number Color"
+msgstr "Boja brojeva"
+
+msgid "Number Counter"
+msgstr "Brojevi brojača"
+
+msgid "Number Position"
+msgstr "Pozicija broja"
+
+msgid "Number Prefix"
+msgstr "Prefiks broja"
+
+msgid "Number Size"
+msgstr "Veličina brojeva"
+
+msgid "Number Spacing"
+msgstr "Razmak brojeva"
+
+msgid "Number Suffix"
+msgstr "Sufiks broja"
+
+msgid "Number Type"
+msgstr "Vrsta brojeva"
+
+msgid "Number of Posts"
+msgstr "Broj objava"
+
+msgid "Number of Products"
+msgstr "Broj proizvoda"
+
+msgid "Number of seconds to complete the animation."
+msgstr "Broj sekundi za dovršetak animacije."
+
+msgid "Numbers"
+msgstr "Brojevi"
+
+msgid "Numbers + Circles"
+msgstr "Brojevi + Krugovi"
+
+msgid "Numbers and Text"
+msgstr "Brojevi i tekst"
+
+msgid "OK"
+msgstr "U redu"
+
+msgid "On Hover"
+msgstr "Prilikom lebdenja"
+
+msgid ""
+"Once you're finished, click the Done button to publish your changes, save a "
+"draft or revert back to the last published state."
+msgstr ""
+"Nakon što završite, kliknite na dugme Gotovo da objavite svoje promjene, "
+"spremite nacrt ili se vratite natrag u posljednje objavljeno stanje."
+
+msgid "One feature per line. HTML is okay."
+msgstr "Jedna značajka po retku. HTML je u redu."
+
+msgid "Only Numbers"
+msgstr "Samo brojevi"
+
+msgid "Opacity"
+msgstr "Neprozirnost"
+
+msgid ""
+"Optional. Set the <a%s>capability</a> required for users to view this column."
+msgstr ""
+"Neobavezno. Postavite <a%s>sposobnost</a> potrebnu za korisnike da vide ovaj "
+"stupac."
+
+msgid ""
+"Optional. Set the <a%s>capability</a> required for users to view this module."
+msgstr ""
+"Neobavezno. Postavite <a%s>ovlasti</a> potrebne za korisnike da vide ovaj "
+"modul."
+
+msgid ""
+"Optional. Set the <a%s>capability</a> required for users to view this row."
+msgstr ""
+"Neobavezno. Postavite <a%s>ovlasti</a> potrebne za korisnike da vide ovaj "
+"redak."
+
+msgid "Order"
+msgstr "Poredano"
+
+msgid "Order By"
+msgstr "Sortiraj po"
+
+msgid "Order Tracking"
+msgstr "Praćenje narudžbe"
+
+msgid "Other Modules"
+msgstr "Ostali moduli"
+
+msgid "Overall Alignment"
+msgstr "Općenito poravnanje"
+
+msgid "Overlay Color"
+msgstr "Boja prekrivanja"
+
+msgid "Overlay Enabled"
+msgstr "Prekrivanje omogućeno"
+
+msgid "Overlay Hide"
+msgstr "Sakrij prekrivanje"
+
+msgid "Overlay Hide Delay"
+msgstr "Kašnjenje sakrivanja prekrivanja"
+
+msgid "Overlay Opacity"
+msgstr "Neprozirnost prekrivanja"
+
+msgid ""
+"Overlay hide will hide the control bar after however many seconds you "
+"specify below. They will reappear upon mouse over."
+msgstr ""
+"Sakrij prekrivanje će sakriti kontrolnu traku nakon toliko sekundi kako ste "
+"naveli ispod. Ona će se pojaviti kada pređete iznad nje mišem."
+
+msgid "Override Core Templates"
+msgstr "Nadjačaj temeljne predloške"
+
+msgid "Override network settings?"
+msgstr "Prepisati postavke mreže?"
+
+msgid "Padding"
+msgstr "Podstava"
+
+msgid "Page Builder"
+msgstr "Graditelj stranice"
+
+msgid "Page Builder activated! <a%s>Click here</a> to enable remote updates."
+msgstr ""
+"Graditelj Stranice je aktiviran! <a%s>Kliknite ovdje</a> da omogućite "
+"ažuriranja."
+
+msgid "Page Builder activated! <a%s>Click here</a> to get started."
+msgstr "Graditelj Stranice je aktiviran! <a%s>Kliknite ovdje</a> za početak."
+
+msgid "Pages → Add New"
+msgstr "Stranice → Dodaj novo"
+
+msgid "Pagination Style"
+msgstr "Stil obilježavanja stranica"
+
+msgctxt "Pagination style."
+msgid "None"
+msgstr "Ništa"
+
+msgid "Panorama"
+msgstr "Panorama"
+
+msgid "Parent Category ID"
+msgstr "ID roditeljske kategorije"
+
+msgid "Parent Settings"
+msgstr "Postavke roditelja"
+
+msgid "Paste color here..."
+msgstr "Ovdje zaljepite boju..."
+
+msgid "Percent"
+msgstr "Postotak"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Phone Field"
+msgstr "Polje telefon"
+
+msgid "Photo"
+msgstr "Slika"
+
+msgid "Photo Count"
+msgstr "Broj slika"
+
+msgctxt "Photo Crop."
+msgid "None"
+msgstr "Ništa"
+
+msgid "Photo File"
+msgstr "Datoteka slike"
+
+msgid "Photo Link"
+msgstr "Link slike"
+
+msgid "Photo Page"
+msgstr "Foto Stranica"
+
+msgid "Photo Selected"
+msgstr "Slika odabrana"
+
+msgid "Photo Size"
+msgstr "Veličina slike"
+
+msgid "Photo Source"
+msgstr "Izvor slike"
+
+msgid "Photo Spacing"
+msgstr "Razmak među slikama"
+
+msgid "Photo URL"
+msgstr "URL slike"
+
+msgctxt "Photo size."
+msgid "Large"
+msgstr "Velika"
+
+msgctxt "Photo size."
+msgid "Medium"
+msgstr "Srednja"
+
+msgctxt "Photo size."
+msgid "Small"
+msgstr "Mala"
+
+msgid "Photos"
+msgstr "Slike"
+
+msgid "Photos Selected"
+msgstr "Slike odabrane"
+
+msgid "Pinterest Button"
+msgstr "Pinterest dugme"
+
+msgid "Play Button"
+msgstr "Dugme reproduciraj"
+
+msgid "Playback"
+msgstr "Reprodukcija"
+
+msgid "Please Wait..."
+msgstr "Molimo sačekajte..."
+
+msgid "Please connect an account before saving."
+msgstr "Povežite račun prije spremanja."
+
+msgid "Please enter a color first."
+msgstr "Najprije unesite boju."
+
+msgid "Please enter a message."
+msgstr "Molimo unesite poruku."
+
+msgid "Please enter a subject."
+msgstr "Molimo unesite predmet."
+
+msgid "Please enter a valid email address."
+msgstr "Molimo unesite važeću email adresu."
+
+msgid "Please enter a valid email."
+msgstr "Molimo unesite važeći email."
+
+msgid "Please enter a valid phone number."
+msgstr "Molimo unesite valjani broj telefona."
+
+msgid "Please enter at least one tag before saving."
+msgstr "Unesite barem jednu oznaku prije spremanja."
+
+msgid "Please enter your name."
+msgstr "Molimo unesite vaše ime."
+
+msgid ""
+"Please register this website with AWeber to get your Authorization Code. <a"
+"%s>Register Now</a>"
+msgstr ""
+"Molimo registrirajte ovu stranicu sa AWeber da biste dobili vaš "
+"Autorizacijski Kod. <a%s>Registriraj Sada</a>"
+
+msgid "Please select a list before saving."
+msgstr "Odaberite popis prije spremanja."
+
+msgid "Please select an account before saving."
+msgstr "Odaberite račun prije spremanja."
+
+msgid ""
+"Please select either a background layout or content layout before submitting."
+msgstr ""
+"Molimo odaberite ili izgled pozadine ili izgled sadržaja prije podnošenja."
+
+msgid "Please subscribe to enable automatic updates for this plugin."
+msgstr ""
+"Molimo pretplatite se da omogućite automatska ažuriranja za ovaj dodatak."
+
+msgid ""
+"Please type \"uninstall\" in the box below to confirm that you really want "
+"to uninstall the page builder and all of its data."
+msgstr ""
+"Molimo, upišite \"uninstall\" u okvir ispod kako biste potvrdili da zaista "
+"želite deinstalirati graditelja stranice i sve njegove podatke."
+
+msgid "Plugin Branding"
+msgstr "Brendiranje Plugina"
+
+msgid "Plugin Icon URL"
+msgstr "URL ikone dodatka"
+
+msgid "Plugin Name"
+msgstr "Naziv dodatka"
+
+msgctxt "Plugin action link label."
+msgid "Upgrade"
+msgstr "Nadogradi"
+
+msgctxt "Plugin setup page: Delete icon set."
+msgid "Delete"
+msgstr "Obriši"
+
+msgctxt "Plugin setup page: Modules."
+msgid "All"
+msgstr "Sve"
+
+msgid "Plus sign"
+msgstr "Znak plus"
+
+msgid "Popularity"
+msgstr "Popularnost"
+
+msgid "Portrait"
+msgstr "Portret"
+
+msgid "Position"
+msgstr "Pozicija"
+
+msgid "Position will tell the image where it should sit in the background."
+msgstr "Pozicija će reći gdje slika treba biti smještena u pozadini."
+
+msgid "Post Hover Transition"
+msgstr "Prijelaz lebdenja objave"
+
+msgid "Post Icon"
+msgstr "Ikona objave"
+
+msgid "Post Icon Color"
+msgstr "Boja ikone objave"
+
+msgid "Post Icon Position"
+msgstr "Pozicija ikone objave"
+
+msgid "Post Icon Size"
+msgstr "Veličina ikone objave"
+
+msgid "Post Info"
+msgstr "Info objave"
+
+msgid "Post Max Width"
+msgstr "Maksimalna širina objave"
+
+msgid "Post Spacing"
+msgstr "Razmak objave"
+
+msgid "Post Type"
+msgstr "Vrsta objave"
+
+msgid "Post Types"
+msgstr "Vrste objava"
+
+msgid "Post Width"
+msgstr "Širina objave"
+
+msgid "Posts"
+msgstr "Objave"
+
+msgid "Posts Carousel"
+msgstr "Vrtuljak objava"
+
+msgid "Posts Per Page"
+msgstr "Objava po stranici"
+
+msgid "Posts Slider"
+msgstr "Slajder objava"
+
+msgid "Premium Features"
+msgstr "Premium značajke"
+
+msgid "Price"
+msgstr "Cijena"
+
+msgid "Price Box"
+msgstr "Okvir cijene"
+
+msgid "Price Size"
+msgstr "Veličina cijene"
+
+msgctxt "Price features displayed in pricing box."
+msgid "Features"
+msgstr "Značajke"
+
+msgid "Pricing Box"
+msgstr "Okvir cijene"
+
+msgid "Pricing Boxes"
+msgstr "Okviri cijena"
+
+msgid "Pricing Table"
+msgstr "Tablica cijena"
+
+msgid "Product Category"
+msgstr "Kategorija proizvoda"
+
+msgid "Product ID"
+msgstr "ID proizvoda"
+
+msgid "Product IDs"
+msgstr "ID proizvoda"
+
+msgid "Product Page"
+msgstr "Stranica proizvoda"
+
+msgid "Products IDs"
+msgstr "ID proizvoda"
+
+msgid "Products Source"
+msgstr "Izvor proizvoda"
+
+msgid "Publish Changes"
+msgstr "Objavi promjene"
+
+msgid "Publish Your Changes"
+msgstr "Objavite svoje promjene"
+
+msgid ""
+"Pull images from the WordPress media library or a gallery on your SmugMug "
+"site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be "
+"accessed by using the get a link function in your SmugMug gallery."
+msgstr ""
+"Izvucite slike iz WordPress medijske knjižnice ili galerije na vašoj SmugMug "
+"stranici umetanjem RSS feed URL iz SmugMug. RSS feed URL se može pristupiti "
+"korištenjem funkcije linka u vašoj SmugMug galeriji."
+
+msgid "Random"
+msgstr "Nasumično"
+
+msgid "Random Bars"
+msgstr "Nasumične trake"
+
+msgid "Random Boxes"
+msgstr "Nasumični okviri"
+
+msgid "Randomize Photos"
+msgstr "Nasumične slike"
+
+msgid "Rating"
+msgstr "Ocjena"
+
+msgid "Read More"
+msgstr "Saznaj više"
+
+msgid "Ready to find out more?"
+msgstr "Spremni za saznati više?"
+
+msgid ""
+"Ready to start building? Add a new page and jump into Beaver Builder by "
+"clicking the Page Builder tab shown on the image."
+msgstr ""
+"Spremni za početak građenja? Dodajte novu stranicu i uskočite u Beaver "
+"Builder klikom na karticu Graditelj Stranice kako je prikazano na slici."
+
+msgid "Recent Products"
+msgstr "Najnoviji proizvodi"
+
+msgid "Redirect"
+msgstr "Preusmjeri"
+
+msgid "Regular"
+msgstr "Normalno"
+
+msgid "Remove"
+msgstr "Ukloni"
+
+msgid "Remove Account"
+msgstr "Ukloni račun"
+
+msgid "Render a Countdown module."
+msgstr "Stopi modul odbrojavanja."
+
+msgid "Render a WordPress audio shortcode."
+msgstr "Stopi WordPress audio shortcode."
+
+msgid "Render a WordPress or embedable video."
+msgstr "Stopi WordPress ili ugradbeni video."
+
+msgid "Renders a WordPress menu."
+msgstr "Stopi WordPress izbornik."
+
+msgid "Renders an animated number counter."
+msgstr "Stapa animirane brojeve u brojaču."
+
+msgid "Repeat"
+msgstr "Ponoviti"
+
+msgid ""
+"Repeat applies to how the image should display in the background. Choosing "
+"none will display the image as uploaded. Tile will repeat the image as many "
+"times as needed to fill the background horizontally and vertically. You can "
+"also specify the image to only repeat horizontally or vertically."
+msgstr ""
+"Ponavljanje se odnosi na to kako se slika treba prikazati u pozadini. Ako ne "
+"odaberete ništa slika će se prikazati onako kako je učitana. Pločica će "
+"ponavljati sliku onoliko puta koliko je potrebno da popuni pozadinu "
+"vodoravno i uspravno. Također, možete odrediti da se slika ponavlja samo "
+"vodoravno ili samo uspravno."
+
+msgid "Replace"
+msgstr "Zamijeni"
+
+msgid "Replace Existing Layout"
+msgstr "Zamijeni postojeći izgled"
+
+msgid "Replace Video"
+msgstr "Zamijeni video"
+
+msgid "Reset Column Widths"
+msgstr "Resetiraj širinu stupaca"
+
+msgid "Responsive Layout"
+msgstr "Responsive izgled"
+
+msgid "Responsive settings for margins, paddings and borders."
+msgstr "Responsive postavke za margine, podstavu i obrube."
+
+msgid "Reversed"
+msgstr "Obrnuto"
+
+msgid "Right"
+msgstr "Desno"
+
+msgid "Right Bottom"
+msgstr "Desno Dno"
+
+msgid "Right Center"
+msgstr "Desno Sredina"
+
+msgid "Right Margin"
+msgstr "Margina desno"
+
+msgid "Right Sidebar"
+msgstr "Desna bočna traka"
+
+msgid "Right Top"
+msgstr "Desno Vrh"
+
+msgid "Right Width"
+msgstr "Širina desno"
+
+msgid "Right of Heading"
+msgstr "Desno od naslova"
+
+msgid "Right of Text and Heading"
+msgstr "Desno od teksta i naslova"
+
+msgid "Round Corners"
+msgstr "Zaobljeni kutovi"
+
+msgid "Rounded"
+msgstr "Zaobljeno"
+
+msgid "Row"
+msgstr "Redak"
+
+msgid "Row Layouts"
+msgstr "Izgledi redaka"
+
+msgid "Row Saved!"
+msgstr "Redak spremljen!"
+
+msgid "Row Settings"
+msgstr "Postavke retka"
+
+msgid "Row/Module: %s"
+msgstr "Redak/Modul: %s"
+
+msgid "Rows"
+msgstr "Redovi"
+
+msgid "Sale Products"
+msgstr "Proizvodi na sniženju"
+
+msgid "Same Window"
+msgstr "Isti prozor"
+
+msgid "Save"
+msgstr "Spremi"
+
+msgid "Save As..."
+msgstr "Spremi kao..."
+
+msgid "Save Branding"
+msgstr "Spremi brendiranje"
+
+msgid "Save Changes and Exit"
+msgstr "Spremi promjene i Izađi"
+
+msgid "Save Core Template"
+msgstr "Spremi temeljni predložak"
+
+msgid "Save Help Button Settings"
+msgstr "Spremi postavke dugmeta za pomoć"
+
+msgid "Save Icon Settings"
+msgstr "Spremi postavke ikona"
+
+msgid "Save License Key"
+msgstr "Spremi licencni ključ"
+
+msgid "Save Module Settings"
+msgstr "Spremi postavke modula"
+
+msgid "Save Post Types"
+msgstr "Spremi vrste objava"
+
+msgid "Save Template"
+msgstr "Spremi predložak"
+
+msgid "Save Template Settings"
+msgstr "Spremi postavke predložaka"
+
+msgid ""
+"Save the current layout as a template that can be reused under "
+"<strong>Templates &rarr; Your Templates</strong>."
+msgstr ""
+"Spremi trenutni izgled kao predložak koji se može koristiti pod "
+"<strong>Predlošci &rarr; Vaši Predlošci</strong>."
+
+msgid "Save, export, and reuse full-page layouts, rows, and modules."
+msgstr ""
+"Spremi, izvezi, i ponovo koristi pune izglede stranice, retke, i module."
+
+msgid "Saved Modules"
+msgstr "Spremljeni moduli"
+
+msgid "Saved Rows"
+msgstr "Spremljeni redovi"
+
+msgid "Scale"
+msgstr "Mjerilo"
+
+msgid "Scale Down"
+msgstr "Smanjivanje"
+
+msgid "Scale Up"
+msgstr "Uvećavanje"
+
+msgid ""
+"Scale applies to how the image should display in the background. You can "
+"select either fill or fit to the background."
+msgstr ""
+"Mjerilo se odnosi na to kako se slika treba prikazati u pozadini. Možete "
+"odabrati ili ispuni ili prilagodi u pozadinu."
+
+msgid "Scroll"
+msgstr "Pomicanje"
+
+msgid "Second"
+msgstr "Sekunda"
+
+msgid "Seconds"
+msgstr "Sekunde"
+
+msgid "Select"
+msgstr "Odaberi"
+
+msgid "Select Audio"
+msgstr "Odaberi Audio"
+
+msgid "Select File"
+msgstr "Odaberi datoteku"
+
+msgid "Select Icon"
+msgstr "Odaberi ikonu"
+
+msgid "Select Photo"
+msgstr "Odaberi sliku"
+
+msgid "Select Photos"
+msgstr "Odaberi slike"
+
+msgid "Select Video"
+msgstr "Odaberi video"
+
+msgid ""
+"Select a WordPress menu that you created in the admin under Appearance > "
+"Menus."
+msgstr ""
+"Odaberite WordPress izbornik kojeg ste kreirali u admin pod Izgled > "
+"Izbornici."
+
+msgid "Select a city"
+msgstr "Odaberite grad"
+
+msgctxt "Select a form a ActiveCampaign."
+msgid "Form"
+msgstr "Obrazac"
+
+msgctxt "Select option for showing all icon libraries."
+msgid "All Libraries"
+msgstr "Sve Knjižnice"
+
+msgctxt "Select the list type."
+msgid "Type"
+msgstr "Vrsta"
+
+msgid "Select the post types you would like the builder to work with."
+msgstr "Odaberite vrstu objava s kojima želite raditi s graditeljom."
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Send To Email"
+msgstr "Pošalji na email"
+
+msgid "Separator"
+msgstr "Odjeljivač"
+
+msgid "Separator Color"
+msgstr "Boja odjeljivača"
+
+msgid "Separator Opacity"
+msgstr "Neprozirnost odjeljitelja"
+
+msgid "Separator Size"
+msgstr "Veličina odjeljivača"
+
+msgid "Separator Type"
+msgstr "Vrsta odjeljivača"
+
+msgid "Service"
+msgstr "Usluge"
+
+msgid ""
+"Setting this to yes will make all of the columns in this group the same "
+"height regardless of how much content is in each of them."
+msgstr ""
+"Ako postavite na DA, ovo će sve stupce u grupi postaviti na istu visinu, bez "
+"obzira na to koliko je sadržaja u svakoj od njih."
+
+msgid "Settings updated!"
+msgstr "Postavke ažurirane!"
+
+msgid "Show"
+msgstr "Prikaži"
+
+msgid "Show Arrows"
+msgstr "Prikaži Strelice"
+
+msgid "Show Artist Name"
+msgstr "Prikaži ime umjetnika"
+
+msgid "Show Caption"
+msgstr "Prikaži opis"
+
+msgid "Show Captions"
+msgstr "Prikaži naslove"
+
+msgid "Show Dots"
+msgstr "Prikaži točke"
+
+msgid "Show Facebook"
+msgstr "Prikaži Facebook"
+
+msgid "Show Featured Image?"
+msgstr "Prikazati istaknutu sliku?"
+
+msgid "Show Google+"
+msgstr "Prikaži Google+"
+
+msgid "Show Message"
+msgstr "Prikaži poruku"
+
+msgid "Show Play/Pause"
+msgstr "Prikaži Pokreni/Pauziraj"
+
+msgid "Show Playlist"
+msgstr "Prikaži popis za reprodukciju"
+
+msgid "Show Saved Module Categories?"
+msgstr "Prikazati spremljeni modul kategorija?"
+
+msgid "Show Saved Row Categories?"
+msgstr "Prikazati spremljeni redak kategorija?"
+
+msgid "Show Separators"
+msgstr "Prikaži odjelitelje"
+
+msgid "Show Thumbnail"
+msgstr "Prikaži minijature"
+
+msgid "Show Time Separators"
+msgstr "Brikaži odjeljivače vremena"
+
+msgid "Show Track Numbers"
+msgstr "Prikaži brojeve zapisa"
+
+msgid "Show Twitter"
+msgstr "Prikaži Twitter"
+
+msgid ""
+"Show saved row and module categories as sections in the page builder "
+"sidebar. A new section will be created for category."
+msgstr ""
+"Prikaži spremljene retke i module kategorija kao sekcije u bočnoj straki "
+"graditelja stranice. Nova sekcija će biti kreirana za kategoriju."
+
+msgid "Sidebar"
+msgstr "Bočna traka"
+
+msgid "Single Product"
+msgstr "Pojedinačni proizvod"
+
+msgid "Size"
+msgstr "Veličina"
+
+msgid "Skin Color"
+msgstr "Boja presvlake"
+
+msgid "Skip this many posts that match the specified criteria."
+msgstr "Preskoči ovo ako mnoge objave odgovaraju navedenim kriterijima."
+
+msgid "Slide"
+msgstr "Slajd"
+
+msgid "Slide Down"
+msgstr "Slajd naniže"
+
+msgid "Slide Horizontal"
+msgstr "Slajd vodoravno"
+
+msgid "Slide Label"
+msgstr "Oznaka slajda"
+
+msgid "Slide Settings"
+msgstr "Postavke slajda"
+
+msgid "Slide Up"
+msgstr "Slajd naviše"
+
+msgid "Slide Vertical"
+msgstr "Slide uspravno"
+
+msgid "Slider"
+msgstr "Slajder"
+
+msgid "Slider Controls"
+msgstr "Kontrole slajdera"
+
+msgid "Slider Settings"
+msgstr "Postavke slajdera"
+
+msgid "Slides"
+msgstr "Slajdovi"
+
+msgid "Slideshow"
+msgstr "Slideshow"
+
+msgctxt "Slideshow transition type."
+msgid "None"
+msgstr "Ništa"
+
+msgctxt "Slideshow transition."
+msgid "None"
+msgstr "Ništa"
+
+msgid "Slow"
+msgstr "Sporo"
+
+msgid "Small Device Breakpoint"
+msgstr "Prijelomna točka malog uređaja"
+
+msgid "Small Device Width"
+msgstr "Mala širina uređaja"
+
+msgid "Small Devices Only"
+msgstr "Samo mali uređaji"
+
+msgid "Social"
+msgstr "Društveno"
+
+msgid "Social Button"
+msgstr "Društveno dugme"
+
+msgid "Social Buttons"
+msgstr "Društvena dugmad"
+
+msgid "Something went wrong. Please check your entries and try again."
+msgstr ""
+"Nešto je pošlo po krivu. Molimo provjerite vaše unose i pokušajte ponovno."
+
+msgid "Sort By"
+msgstr "Sortiraj po"
+
+msgid "Sort Direction"
+msgstr "Smjer sortiranja"
+
+msgctxt "Sort by."
+msgid "Default"
+msgstr "Default"
+
+msgid "Source"
+msgstr "Izvor"
+
+msgid "Spacing"
+msgstr "Razmak"
+
+msgid "Speed"
+msgstr "Brzina"
+
+msgctxt "Speed."
+msgid "Medium"
+msgstr "Srednje"
+
+msgid "Square"
+msgstr "﻿Kvadrat"
+
+msgid "Stacked"
+msgstr "Povrh"
+
+msgid "Stacking Order"
+msgstr "Slaganje po redu"
+
+msgid "Standard"
+msgstr "Standardno"
+
+msgid "Start typing..."
+msgstr "Počnite pisati..."
+
+msgid "Straight"
+msgstr "Oštri kutevi"
+
+msgid "Structure"
+msgstr "Struktura"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Subject"
+msgstr "Predmet"
+
+msgid "Subject Field"
+msgstr "Polje predmet"
+
+msgid "Submenu Background Color"
+msgstr "Boja pozadine podizbornika"
+
+msgid "Submenu Background Opacity"
+msgstr "Neprozirnost pozadine podizbornika"
+
+msgid "Submenu Drop Shadow"
+msgstr "Padajuća sjena podizbornika"
+
+msgid "Submenu Icon"
+msgstr "Ikona podizbornika"
+
+msgid "Submenu Icon click"
+msgstr "Klik ikona podizbornika"
+
+msgid "Submit for Review"
+msgstr "Pošalji na pregled"
+
+msgid "Subscribe Form"
+msgstr "Obrazac za prijavu"
+
+msgid "Subscribe Form Signup"
+msgstr "Pretplata Obrazac za prijavu"
+
+msgid "Subscribe Now"
+msgstr "Pretplatite se sada"
+
+msgid "Subscribe!"
+msgstr "Pretplata!"
+
+msgid "Success"
+msgstr "Uspješno"
+
+msgid "Success Action"
+msgstr "Radnja uspješna"
+
+msgid "Success URL"
+msgstr "URL uspješno"
+
+msgid "Tabs"
+msgstr "Kartice"
+
+msgid "Take a Tour"
+msgstr "Započnite razgledavanje"
+
+msgid "Target URL"
+msgstr "Ciljni URL"
+
+msgid "Template Exporter"
+msgstr "Izvoznik Predloška"
+
+msgid "Template Saved!"
+msgstr "Predložak spremljen!"
+
+msgid "Template Settings"
+msgstr "Postavke predložaka"
+
+msgctxt "Template name."
+msgid "Blank"
+msgstr "Prazno"
+
+msgctxt "Template name."
+msgid "Name"
+msgstr "Naziv"
+
+msgid "Templates"
+msgstr "Predlošci"
+
+msgid "Testimonial"
+msgstr "Iskustvo"
+
+msgid "Testimonials"
+msgstr "Iskustva"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text &amp; Photo"
+msgstr "Tekst i Slika"
+
+msgid "Text &amp; Video"
+msgstr "Tekst i Video"
+
+msgid "Text After Number"
+msgstr "Tekst nakon broja"
+
+msgid "Text Background Color"
+msgstr "Boja pozadine teksta"
+
+msgid "Text Background Gradient"
+msgstr "Gradijent pozadine teksta"
+
+msgid "Text Background Height"
+msgstr "Visina pozadine teksta"
+
+msgid "Text Background Opacity"
+msgstr "Neprozirnost pozadine teksta"
+
+msgid "Text Before Number"
+msgstr "Tekst prije broja"
+
+msgid "Text Color"
+msgstr "Boja teksta"
+
+msgid "Text Colors"
+msgstr "Boje teksta"
+
+msgid "Text Editor"
+msgstr "Uređivač teksta"
+
+msgid "Text Hover Color"
+msgstr "Boja teksta lebdenja"
+
+msgid "Text Padding"
+msgstr "Podstava teksta"
+
+msgid "Text Position"
+msgstr "Pozicija teksta"
+
+msgid "Text Shadow"
+msgstr "Sjena teksta"
+
+msgid "Text Size"
+msgstr "Veličina teksta"
+
+msgid "Text Width"
+msgstr "Širina teksta"
+
+msgid "Text to appear above the number. Leave it empty for none."
+msgstr "Tekst će se pojaviti iznad broja. Ostavite prazno za ništa."
+
+msgid "Text to appear after the number. Leave it empty for none."
+msgstr "Tekst će se pojaviti nakon broja. Ostavite prazno za ništa."
+
+msgid ""
+"Thank you for choosing Beaver Builder and welcome to the colony! Find some "
+"helpful information below. Also, to the left are the Page Builder settings "
+"options."
+msgstr ""
+"Hvala što ste odabrali Beaver Builder i dobrodošli u koloniju! Nađite ispod "
+"korisne informacije. Također, s lijeve strane su opcije postavki Graditelja "
+"Stranice."
+
+msgid ""
+"Thanks for subscribing! Please check your email for further instructions."
+msgstr ""
+"Zahvaljujemo na pretplati! Provjerite vašu dolaznu poštu za dalje upute."
+
+msgid "Thanks for your message! We’ll be in touch soon."
+msgstr "Zahvaljujemo na poruci! Mi ćemo vas uskoro kontaktirati."
+
+msgid ""
+"The <strong>Page Builder</strong> plugin requires WordPress version 3.5 or "
+"greater. Please update WordPress before activating the plugin."
+msgstr ""
+"<strong>Page Builder</strong> plugin zahtjeva WordPress verziju 3.5 ili "
+"noviju. Molimo nadogradite WordPress prije aktiviranja plugina."
+
+msgid "The Beaver Builder Booster plugin is not compatible with your host."
+msgstr "Beaver Builder Booster plugin nije kompatibilan s vašim hostom."
+
+msgid ""
+"The ID of the list you would like users to subscribe to. The ID of a list "
+"can be found under \"View all lists\" in the section named ID."
+msgstr ""
+"ID popisa na kojeg želite da se pretplate vaši korisnici. ID popisa možete "
+"naći pod \"View all lists\" u sekciji pod nazivom ID."
+
+msgid ""
+"The Target URL field correlates to the page you would like your social icons "
+"to interface with. For example, if you show Facebook, the user will \"Like\" "
+"whatever you put in this field."
+msgstr ""
+"Polje s Ciljnim URL je u korelaciji sa stranicom na kojoj želite imati "
+"društvene ikone. Na primjer, ako vi pokažete Facebook, korisnik će \"lajkati"
+"\" bilo što vi stavite u ovo polje."
+
+msgid ""
+"The Tools button lets you save a template, duplicate a layout, edit the "
+"settings for a layout or edit the global settings."
+msgstr ""
+"Dugme Alati omogućuje vam spremanje predloška, dupliciranje izgleda, "
+"uređivanje postavki za izgled ili uređivanje globalnih postavki."
+
+msgid ""
+"The URL where your Sendy application is installed (e.g. http://mywebsite.com/"
+"sendy)."
+msgstr ""
+"URL gdje je vaša Sendy aplikacija instalirana (npr. http://mywebsite.com/"
+"sendy)."
+
+msgid "The ability to drag, drop and nest columns."
+msgstr "Mogućnost povlačenja, ispuštanja i gniježđenja stupaca."
+
+msgid "The alignment that will apply to all elements within the callout."
+msgstr "Poravnanje koje će se primjenjivati na sve elemente unutar oblačića."
+
+msgid "The amount of time in seconds before this animation starts."
+msgstr "Iznos vremena u sekundama prije nego počne ova animacija."
+
+msgid ""
+"The browser width at which the layout will adjust for medium devices such as "
+"tablets."
+msgstr ""
+"Širina preglednika će se prilagoditi za srednje uređaje kao što su tableti."
+
+msgid ""
+"The browser width at which the layout will adjust for small devices such as "
+"phones."
+msgstr ""
+"Širina preglednika će se prilagoditi za male uređaje kao što su telefoni."
+
+msgid ""
+"The builder does not delete the post meta <code>_fl_builder_data</code>, "
+"<code>_fl_builder_draft</code> and <code>_fl_builder_enabled</code> in case "
+"you want to reinstall it later. If you do, the builder will rebuild all of "
+"its data using those meta values."
+msgstr ""
+"Graditelj ne briše post meta <code>_fl_builder_data</code>, "
+"<code>_fl_builder_draft</code> i <code>_fl_builder_enabled</code> u slučaju "
+"da želite ponovo instalirati kasnije. Ako to učinite, graditelj će obnoviti "
+"sve podatke pomoću ovih meta vrijednosti."
+
+msgid ""
+"The caption pulls from whatever text you put in the caption area in the "
+"media manager for each image. The caption is also pulled directly from "
+"SmugMug if you have captions set in your gallery."
+msgstr ""
+"Natpis se izvlači iz teksta kojeg ste stavili u područje opisa u Medijskom "
+"Upravitelju za svaku sliku. Opis je također izvučen izravno iz SmugMug ako "
+"imate opise koji su postavljeni u vašoj galeriji."
+
+msgid ""
+"The color applies to the overlay behind text over the background selections."
+msgstr "Boja se primjenjuje na prekrivanje iza teksta preko sekcije pozadine."
+
+msgid "The contact form will send to this e-mail. Defaults to the admin email."
+msgstr ""
+"Kontakt obrazac šalje na ovu email adresu. Default je admin email adresa."
+
+msgid "The email address associated with your Mad Mimi account."
+msgstr "Email adresa koju koristite za vaš Mad Mimi račun."
+
+msgid ""
+"The fastest way to find an answer to a question is to see if someone's "
+"already answered it!"
+msgstr ""
+"Najbrži način da pronađete odgovor na pitanje je da vidite ako je netko već "
+"odgovorio na to!"
+
+msgid ""
+"The host you chose when you signed up for your account. Check your welcome "
+"email if you forgot it. Please enter it without the initial http:// (e.g. "
+"demo.ip-zone.com)."
+msgstr ""
+"Host kojeg ste izabrali prilikom registracije računa. Provjerite email "
+"dobrodošlice ako ste to zaboravili. Molimo unesite to bez početnog http:// "
+"(npr. demo.ip-zone.com)."
+
+msgid ""
+"The host you chose when you signed up for your account. Check your welcome "
+"email if you forgot it. Please enter it without the initial http:// (for "
+"example: demo.campayn.com)."
+msgstr ""
+"Host odabirete sami kada registrirate vaš račun. Provjerite email "
+"dobrodošlice ako ste to zaboravili. Molimo unesite to bez početnog http:// "
+"(na primjer: demo.campayn.com)."
+
+msgid ""
+"The link applies to the entire module. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr ""
+"Link se odnosi na cijeli modul. Ako odaberete vrstu Poziv na akciju ispod, "
+"ovaj link će se također koristiti za tekst ili dugme."
+
+msgid ""
+"The link applies to the entire slide. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr ""
+"Link se primjenjuje na cijeli slajd. Ako odaberete vrstu Poziv na akciju "
+"ispod, ovaj link će se također koristiti i za tekst ili dugme."
+
+msgid "The max width that the content area will be within your slides."
+msgstr "Maksimalna širina područja sadržaja u slajdovima."
+
+msgid ""
+"The order of the columns in this group when they are stacked for small "
+"devices."
+msgstr "Poredaj stupce u ovu grupu kada su posloženi za male uređaje."
+
+msgid ""
+"The position will move the content layout selections left or right or center "
+"of the thumbnail of the slide."
+msgstr ""
+"Pozicija će pomaknuti sekciju izgleda sadržaja na lijevo, desno ili sredinu "
+"minijatura slajda."
+
+msgid ""
+"The position will move the content layout selections left, right or bottom "
+"over the background of the slide."
+msgstr ""
+"Pozicija će pomaknuti sekciju izgleda sadržaja na lijevo, desno ili dno "
+"preko pozadine slajda."
+
+msgid ""
+"The position will move the content layout selections left, right or center "
+"over the background of the slide."
+msgstr ""
+"Pozicija će pomaknuti sekciju izgleda sadržaja na lijevo, desno ili u "
+"sredini preko pozadine slajda."
+
+msgid ""
+"The settings you are currently editing will not be saved if you navigate "
+"away from this page."
+msgstr ""
+"Postavke koje trenutno uređujete neće biti spremljene ako napustite ovu "
+"stranicu."
+
+msgid ""
+"The total number of units for this counter. For example, if the Number is "
+"set to 250 and the Total is set to 500, the counter will animate to 50%."
+msgstr ""
+"Ukupan broj jedinica za ovaj brojač. Na primjer, ako je broj postavljen na "
+"250, a ukupno je postavljeno na 500, brojač će animirati na 50%."
+
+msgid ""
+"The type of border to use. Double borders must have a height of at least 3px "
+"to render properly."
+msgstr ""
+"Vrsta obruba za korištenje. Dvostruki obrub mora imati širinu od najmanje "
+"3px da se stopi ispravno."
+
+msgid ""
+"The type of border to use. Double borders must have a width of at least 3px "
+"to render properly."
+msgstr ""
+"Vrsta obruba za korištenje. Dvostruki obrub mora imati širinu od najmanje "
+"3px da se stopi ispravno."
+
+msgid "The width of this column on medium devices such as tablets."
+msgstr "Širina ovog stupca na srednjim uređajima poput tableta."
+
+msgid "The width of this column on small devices such as phones."
+msgstr "Širina ovog stupca na malim uređajima kao što su telefoni."
+
+msgid "Theme Branding"
+msgstr "Brendiranje Teme"
+
+msgid "Theme Company Name"
+msgstr "Naziv tvrtke ove teme"
+
+msgid "Theme Company URL"
+msgstr "URL tvrtke ove teme"
+
+msgid "Theme Description"
+msgstr "Opis teme"
+
+msgid "Theme Name"
+msgstr "Naziv teme"
+
+msgid "Theme Screenshot URL"
+msgstr "URL snimke zaslona teme"
+
+msgid ""
+"There was a problem retrieving your lists. Please check your API credentials."
+msgstr ""
+"Došlo je do problema prilikom preuzimanja popisa. Provjerite vaše API "
+"podatke."
+
+msgid "There was an error connecting to AWeber. Please try again."
+msgstr ""
+"Došlo je do greške prilikom povezivanja na AWeber. Molimo pokušajte ponovo."
+
+msgid "There was an error connecting to Infusionsoft. %s"
+msgstr "Došlo je do greške prilikom povezivanja na Infusionsoft. %s"
+
+msgid "There was an error connecting to SendinBlue. Please try again."
+msgstr ""
+"Došlo je do greške prilikom povezivanja na SendinBlue. Molimo pokušajte "
+"ponovo."
+
+msgid "There was an error retrieveing your lists."
+msgstr "Došlo je do greške prilikom dohvaćanja popisa."
+
+msgid "There was an error searching contact from Drip. %s"
+msgstr "Došlo je do greške prilikom pretraživanja kontakta iz Drip. %s"
+
+msgid "There was an error subscribing to AWeber. %s"
+msgstr "Došlo je do greške prilikom pretplate na AWeber. %s"
+
+msgid ""
+"There was an error subscribing to AWeber. The account is no longer connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na AWeber. Račun više nije povezan."
+
+msgid ""
+"There was an error subscribing to ActiveCampaign. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na ActiveCampaign. Račun više nije "
+"povezan."
+
+msgid "There was an error subscribing to Campaign Monitor."
+msgstr "Došlo je do greške prilikom pretplate na Campaign Monitor."
+
+msgid ""
+"There was an error subscribing to Campaign Monitor. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Campaign Monitor. Račun više nije "
+"povezan."
+
+msgid "There was an error subscribing to Campayn. %s"
+msgstr "Došlo je do greške prilikom pretplate na Campayn. %s"
+
+msgid ""
+"There was an error subscribing to Campayn. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Campayn. Račun više nije povezan."
+
+msgid "There was an error subscribing to Constant Contact. %s"
+msgstr "Došlo je do greške prilikom pretplate na Constant Contact. %s"
+
+msgid ""
+"There was an error subscribing to Constant Contact. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Constant Contact. Račun više nije "
+"povezan."
+
+msgid "There was an error subscribing to ConvertKit."
+msgstr "Došlo je do greške prilikom pretplate na ConvertKit."
+
+msgid ""
+"There was an error subscribing to ConvertKit. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na ConvertKit. Račun više nije povezan."
+
+msgid "There was an error subscribing to Drip. %s"
+msgstr "Došlo je do greške prilikom pretplate na Drip. %s"
+
+msgid ""
+"There was an error subscribing to Drip. The account is no longer connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Drip. Račun više nije povezan."
+
+msgid "There was an error subscribing to GetResponse. %s"
+msgstr "Došlo je do greške prilikom pretplate na GetResponse. %s"
+
+msgid ""
+"There was an error subscribing to GetResponse. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na GetResponse. Račun više nije "
+"povezan."
+
+msgid "There was an error subscribing to Hatchbuck."
+msgstr "Došlo je do greške prilikom pretplate na Hatchbuck."
+
+msgid "There was an error subscribing to Hatchbuck. The API key is invalid."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Hatchbuck. API ključ nije valjan."
+
+msgid ""
+"There was an error subscribing to Hatchbuck. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Hatchbuck. Račun više nije povezan."
+
+msgid "There was an error subscribing to Infusionsoft. %s"
+msgstr "Došlo je do greške prilikom pretplate na Infusionsoft. %s"
+
+msgid ""
+"There was an error subscribing to Infusionsoft. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Infusionsoft. Račun više nije "
+"povezan."
+
+msgid ""
+"There was an error subscribing to Mad Mimi. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Mad Mimi. Račun više nije povezan."
+
+msgid "There was an error subscribing to MailChimp. %s"
+msgstr "Došlo je do greške prilikom pretplate na MailChimp. %s"
+
+msgid ""
+"There was an error subscribing to MailChimp. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na MailChimp. Račun više nije povezan."
+
+msgid "There was an error subscribing to MailerLite. Code: %s"
+msgstr "Došlo je do greške prilikom pretplate na MailerLite. Kod: %s"
+
+msgid ""
+"There was an error subscribing to MailerLite. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na MailerLite. Račun nije povezan."
+
+msgid "There was an error subscribing to Mailrelay. %s"
+msgstr "Došlo je do greške prilikom pretplate na Mailrelay. %s"
+
+msgid ""
+"There was an error subscribing to Mailrelay. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Mailrelay. Račun više nije povezan."
+
+msgid "There was an error subscribing to SendinBlue. Please try again."
+msgstr ""
+"Došlo je do greške prilikom pretplate na SendinBlue. Molimo pokušajte ponovo."
+
+msgid ""
+"There was an error subscribing to SendinBlue. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na SendinBlue. Račun više nije povezan."
+
+msgid "There was an error subscribing to Sendy. %s"
+msgstr "Došlo je do greške prilikom pretplate na Sendy. %s"
+
+msgid ""
+"There was an error subscribing to Sendy. The account is no longer connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na Sendy. Račun više nije povezan."
+
+msgid "There was an error subscribing to iContact. %s"
+msgstr "Došlo je do greške prilikom pretplate na iContact. %s"
+
+msgid ""
+"There was an error subscribing to iContact. The account is no longer "
+"connected."
+msgstr ""
+"Došlo je do greške prilikom pretplate na iContact. Račun više nije povezan."
+
+msgid "There was an error subscribing. MailPoet is not installed."
+msgstr "Došlo je do greške prilikom pretplate. MailPoet nije instaliran."
+
+msgid "There was an error subscribing. Please try again."
+msgstr "Greška prilikom pretplate. Molimo pokušajte ponovo."
+
+msgid "There was an error subscribing. The account is no longer connected."
+msgstr "Došlo je do greške prilikom pretplate. Račun više nije povezan."
+
+msgid ""
+"There's a wonderful community of \"Beaver Builders\" out there and we'd love "
+"it if <em>you</em> joined us!"
+msgstr ""
+"Ovdje je prekrasna zajednica \"Beaver Buildera\" i mi bismo voljeli da se "
+"<em>vi</em> nama pridružite!"
+
+msgctxt "Third party service such as MailChimp."
+msgid "Error: Missing service type."
+msgstr "Greška: Nedostaje vrsta usluge."
+
+msgid ""
+"This allows you to add content over or in addition to the background "
+"selection above. The location of the content layout can be selected in the "
+"style tab."
+msgstr ""
+"Ovo vam omogućuje da dodate sadržaj preko ili uz pozadinu u sekciji iznad. "
+"Lokacija izgleda sadržaja može biti odabrana u kartici sa stilovima."
+
+msgid "This applies to all sites on the network."
+msgstr "Ovo se primjenjuje na sve stranice na mreži."
+
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Ovo izgleda da nije WXR datoteka, nedostaje/neispravan broj WXR verzije"
+
+msgid "This field is required."
+msgstr "Ovo polje je obavezno."
+
+msgid ""
+"This only applies to this site. Please visit the Network Admin Settings to "
+"clear the cache for all sites on the network."
+msgstr ""
+"Ovo se primjenjuje samo na ovu stranicu. Molimo posjetite Postavke "
+"Administratora Mreže da biste obrisali predmemoriju za sve stranice na mreži."
+
+msgid "This setting is for the entire background of your slide."
+msgstr "Ova postavka je za cijelu pozadinu vašeg slajda."
+
+msgid ""
+"This setting is the minimum height of the content slider. Content will "
+"expand the height automatically."
+msgstr ""
+"Ova postavka je minimalna visina klizača sadržaja. Sadržaj će se automatski "
+"proširiti po visini."
+
+msgid ""
+"This setting is the minimum height of the post slider. Content will expand "
+"the height automatically."
+msgstr ""
+"Ova postavka je minimalna visina slajdera objava. Sadržaj će se automatski "
+"proširiti po visini."
+
+msgid ""
+"This version of the <strong>Page Builder</strong> plugin is not compatible "
+"with WordPress Multisite. <a%s>Please upgrade</a> to the Multisite version "
+"of this plugin."
+msgstr ""
+"Ova verzija plugina <strong>Graditelja Stranice</strong> nije kompatibilna "
+"sa WordPress Multisite. <a%s>Molimo nadogradite</a> u Multisite verziju ovog "
+"plugina."
+
+msgid "Thumbnail"
+msgstr "Minijature"
+
+msgid "Thumbs"
+msgstr "Minijature"
+
+msgid "Thumbs Button"
+msgstr "Dugme minijatura"
+
+msgid "Thumbs Size"
+msgstr "Veličina minijatura"
+
+msgid "Time"
+msgstr "Vrijeme"
+
+msgid "Time Zone"
+msgstr "Vremenska zona"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "Title Size"
+msgstr "Veličina naslova"
+
+msgid "Tools"
+msgstr "Alati"
+
+msgid "Top"
+msgstr "Vrh"
+
+msgid "Top Margin"
+msgstr "Margina na vrhu"
+
+msgid "Top Rated Products"
+msgstr "Najbolje ocjenjeni proizvodi"
+
+msgid "Top Width"
+msgstr "Širina vrh"
+
+msgid "Total"
+msgstr "Ukupno"
+
+msgid "Transition"
+msgstr "Prijelaz"
+
+msgid "Transition Speed"
+msgstr "Brzina prijelaza"
+
+msgctxt "Transition type."
+msgid "Slide"
+msgstr "Slajd"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "Twitter Button"
+msgstr "Twitter dugme"
+
+msgid "Type"
+msgstr "Vrsta"
+
+msgid ""
+"UPDATES UNAVAILABLE! Please subscribe or enter your license key below to "
+"enable automatic updates."
+msgstr ""
+"AŽURIRANJA NEDOSTUPNA! Molimo pretplatite se ili unesite licencni ključ "
+"ispod kako bi se omogućila automatska ažuriranja."
+
+msgid ""
+"UPDATES UNAVAILABLE! Your subscription is active but this domain has been "
+"deactivated. Please reactivate this domain in your account to enable "
+"automatic updates."
+msgstr ""
+"AŽURIRANJA NEDOSTUPNA! Vaša pretplata je aktivna ali ova domena je "
+"deaktivirana. Molimo aktivirajte ovu domenu na računu kako bi se omogućila "
+"automatska ažuriranja."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "UTC"
+msgstr "UTC"
+
+msgid "Unable to connect to Mad Mimi. Please check your credentials."
+msgstr ""
+"Nije moguće povezati se na Mad Mimi. Molimo provjerite vaše login podatke."
+
+msgid "Uninstall"
+msgstr "Deinstaliraj"
+
+msgid "Updates &amp; Support Subscription"
+msgstr "Ažuriranja i Pretplata za podršku"
+
+msgid "Upgrade"
+msgstr "Nadogradi"
+
+msgid "Upgrade Today <i class=\"fa fa-external-link-square\"></i>"
+msgstr "Nadogradite Danas <i class=\"fa fa-external-link-square\"></i>"
+
+msgid "Upload Icon Set"
+msgstr "Učitaj komplet ikona"
+
+msgid "Upload a photo or display one from the media library."
+msgstr "Učitava sliku ili prikazuje jednu iz medijske knjižnice."
+
+msgid "Uppercase"
+msgstr "Velika slova"
+
+msgid "Use Icon for Posts"
+msgstr "Koristi ikonu za objave"
+
+msgid "Use Main Photo"
+msgstr "Koristi glavnu sliku"
+
+msgid "Use an easy drag-and-drop builder to edit content on this page."
+msgstr ""
+"Koristite jednostavan povuci-i-ispusti graditelj za uređivanje sadržaja na "
+"ovoj stranici."
+
+msgid ""
+"Use the Add Content button to open the content panel and add new row "
+"layouts, modules or widgets."
+msgstr ""
+"Koristite dugme Dodaj Sadržaj da biste otvorili ploču sadržaja i dodali nove "
+"izglede redaka, modula ili widgeta."
+
+msgid ""
+"Use the Templates button to pick a new template or append one to your "
+"layout. Appending will insert a new template at the end of your existing "
+"page content."
+msgstr ""
+"Koristite dugme Predlošci kako biste odabrali novi predložak ili dodali "
+"jedan vašem izgledu. Dodavanje će umetnuti novi predložak na kraju vašeg "
+"sadržaja postojeće stranice."
+
+msgid ""
+"Use the action buttons to perform actions such as moving, editing, "
+"duplicating or deleting rows, columns and modules."
+msgstr ""
+"Koristite akcijsku dugmad da obavite radnje kao što su pomicanje, "
+"uređivanje, dupliciranje ili brisanje redaka, stupaca i modula."
+
+msgid ""
+"Use this setting to enable or disable templates in the builder interface."
+msgstr ""
+"Koristite ovu postavku za omogućiti ili onemogućiti predloške u sučelju "
+"graditelja."
+
+msgid ""
+"Use this setting to override core builder templates with your templates."
+msgstr ""
+"Koristite ove postavke za nadjačati temeljne predloške graditelja s vašim "
+"predlošcima."
+
+msgid ""
+"Use this to normalize the height of your boxes when they have different "
+"numbers of features."
+msgstr ""
+"Koristite ovo za normalizaciju visine vaših okvira kad imaju različit broj "
+"osobina."
+
+msgid ""
+"Used to identify this connection within the accounts list and can be "
+"anything you like."
+msgstr ""
+"Koristi se za identifikaciju ovog povezivanja s računom liste i može biti "
+"što god želite."
+
+msgid "User Capability"
+msgstr "Sposobnost korisnika"
+
+msgid "Username"
+msgstr "Korisničko ime"
+
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "sekundi"
+
+msgid "Vertical"
+msgstr "Uspravno"
+
+msgid "Vertical Padding"
+msgstr "Uspravna podstava"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video (MP4)"
+msgstr "Video (MP4)"
+
+msgid "Video (WebM)"
+msgstr "Video (WebM)"
+
+msgid "Video Embed Code"
+msgstr "Kod za ugraditi video"
+
+msgid "Video Link"
+msgstr "Video Link"
+
+msgid "Video Type"
+msgstr "Vrsta videa"
+
+msgid "Video URL (MP4)"
+msgstr "Video URL (MP4)"
+
+msgid "Video URL (WebM)"
+msgstr "Video URL (WebM)"
+
+msgctxt "Video preview/fallback image."
+msgid "Poster"
+msgstr "Plakat"
+
+msgid "View the Knowledge Base"
+msgstr "Pogledajte Baza znanja"
+
+msgid "Visibility"
+msgstr "Vidljivost"
+
+msgid "Visit Account"
+msgstr "Posjetite račun"
+
+msgid ""
+"WARNING! You are about to delete a global template that may be linked to "
+"other pages. Do you really want to delete this template and unlink it?"
+msgstr ""
+"UPOZORENJE! Spremate se obrisati globalni predložak koji može biti povezan s "
+"drugim stranicama. Jeste li sigurni da želite obrisati ovaj predložak i "
+"prekinuti link?"
+
+msgid ""
+"Warning! Changing the template will replace your existing layout. Do you "
+"really want to do this?"
+msgstr ""
+"Upozorenje! Mjenjanje predloška će zamijeniti vaš postojeći izgled. Želite "
+"li stvarno to učiniti?"
+
+msgid "Watch the Video"
+msgstr "Pogledaj Video"
+
+msgid "We take pride in offering outstanding support."
+msgstr "Mi smo ponosni na pružanju izvrsne podrške."
+
+msgid "Welcome"
+msgstr "Dobrodošli"
+
+msgid "Welcome to Beaver Builder!"
+msgstr "Dobro došli u Beaver Builder!"
+
+msgid ""
+"Welcome! It looks like this might be your first time using the builder. "
+"Would you like to take a tour?"
+msgstr ""
+"Dobrodošli! Izgleda da bi ovo mogao biti vaš prvi put da koristite "
+"graditelja. Želite li u obilazak?"
+
+msgid "What would you like to do?"
+msgstr "Što biste željeli napraviti?"
+
+msgid "What's New in Beaver Builder 1.9 Shasta"
+msgstr "Što je novo u Beaver Builder 1.9 Shasta"
+
+msgid ""
+"When auto spacing is enabled, the builder will automatically adjust the "
+"margins and padding in your layout once the small device breakpoint is "
+"reached. Most users will want to leave this enabled."
+msgstr ""
+"Kada je omogućen automatski razmak, graditelj će automatski podesiti margine "
+"i podstave u vašem izgledu nakon što je postignuta prijelomna točka na malom "
+"uređaju. Većina korisnika će htjeti ostaviti ovo omogućeno."
+
+msgid "Where to display the number in relation to the bar."
+msgstr "Gdje da se prikaže broj u odnosu na traku."
+
+msgctxt "Whether this is a global row or module."
+msgid "Global"
+msgstr "Globalno"
+
+msgid "White label the page builder plugin using the settings below."
+msgstr "White label dodatka graditelja stranice koristi postavke ispod."
+
+msgid "White label the page builder theme using the settings below."
+msgstr "White label teme graditelja stranice koristi postavke ispod."
+
+msgid "Wide"
+msgstr "Široko"
+
+msgid "Wide is for 1 column rows, compact is for multi-column rows."
+msgstr "Široko je za retke s 1 stupcem, zbijeno je za retke s više stupaca."
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Width"
+msgstr "Širina"
+
+msgctxt "Width."
+msgid "Auto"
+msgstr "Automatski"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "WordPress Widgets"
+msgstr "WordPress Widgeti"
+
+msgid "Year"
+msgstr "Godina"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes Please!"
+msgstr "Da, molim!"
+
+msgid ""
+"You can choose a different photo that the slide will change to on mobile "
+"devices or no photo if desired."
+msgstr ""
+"Možete odabrati neku drugu sliku koja će se prikazati umjesto slajda na "
+"mobilnom uređaju ili bez slike ako tako želite."
+
+msgid ""
+"You currently have two versions of Beaver Builder active on this site. "
+"Please <a href=\"%s\">deactivate one</a> before continuing."
+msgstr ""
+"Vi trenutno imate dvije verzije Beaver Buildera aktivne na ovo stranici. "
+"Molimo <a href=\"%s\">deaktivirajte jednu</a> prije nastavka."
+
+msgid ""
+"You haven't saved any templates yet! To do so, create a layout and save it "
+"as a template under <strong>Tools &rarr; Save Template</strong>."
+msgstr ""
+"Još niste spremili nikakve predloške! Da biste to učinili, kreirajte izgled "
+"i spremite ga kao predložak pod <strong>Alati &rarr; Spremi predložak</"
+"strong>."
+
+msgid "YouTube or Vimeo"
+msgstr "YouTube ili Vimeo"
+
+msgid ""
+"Your API Token can be found in your Drip account under Settings > My User "
+"Settings. Or, you can click this <a%s>direct link</a>."
+msgstr ""
+"Vaš API Token možete naći u vašem Drip računu pod Settings > My User "
+"Settings. Ili, možete kliknuti na ovaj <a%s>direktan link</a>."
+
+msgid ""
+"Your API key can be found in your ActiveCampaign account under My Settings > "
+"Developer > API."
+msgstr ""
+"Vaš API ključ možete naći u vašem ActiveCampaign računu pod My Settings > "
+"Developer > API."
+
+msgid ""
+"Your API key can be found in your Campaign Monitor account under Account "
+"Settings > API Key."
+msgstr ""
+"Vaš API ključ možete naći u vašem Campaign Monitor računu pod Account "
+"Settings > API Key."
+
+msgid ""
+"Your API key can be found in your Campayn account under Settings > API Key."
+msgstr ""
+"Vaš API ključ možete naći u vašem Campayn računu pod Settings > API Key."
+
+msgid ""
+"Your API key can be found in your ConvertKit account under Account > Account "
+"Settings > API Key."
+msgstr ""
+"Vaš API ključ možete naći u vašem ConvertKit računu pod Account > Account "
+"Settings > API Key."
+
+msgid ""
+"Your API key can be found in your GetResponse account under My Account > "
+"GetResponse API."
+msgstr ""
+"Vaš API ključ možete naći u vašem GetResponse računu pod My Account > "
+"GetResponse API."
+
+msgid ""
+"Your API key can be found in your Hatchbuck account under Account Settings > "
+"Web API."
+msgstr ""
+"Vaš API ključ možete naći u vašem Hatchbuck računu pod Account Settings > "
+"Web API."
+
+msgid ""
+"Your API key can be found in your Infusionsoft account under Admin > "
+"Settings > Application > API > Encrypted Key."
+msgstr ""
+"Vaš API ključ možete naći u svom Infusionsoft računu pod Admin > Settings > "
+"Application > API > Encrypted Key."
+
+msgid ""
+"Your API key can be found in your Mad Mimi account under Account > Settings "
+"&amp; Billing > API."
+msgstr ""
+"Vaš API ključ možete naći u svom Mad Mimi računu pod Account > Settings "
+"&amp; Billing > API."
+
+msgid ""
+"Your API key can be found in your MailChimp account under Account > Extras > "
+"API Keys."
+msgstr ""
+"Vaš API ključ možete naći u svom MailChimp računu pod Account > Extras > API "
+"Keys."
+
+msgid ""
+"Your API key can be found in your Mailrelay account under Menu > Settings > "
+"API access."
+msgstr ""
+"Vaš API ključ možete naći u svom Mailrelay računu pod Menu > Settings > API "
+"access."
+
+msgid ""
+"Your API url can be found in your ActiveCampaign account under My Settings > "
+"Developer > API."
+msgstr ""
+"Vaš API url možete naći u vašem ActiveCampaign računu pod My Settings > "
+"Developer > API."
+
+msgid ""
+"Your Access Key can be found in your SendinBlue account under API & "
+"Integration > Manager Your Keys > Version 2.0 > Access Key."
+msgstr ""
+"Vaš Pristupni ključ možete naći u svom SendinBlue računu pod API & "
+"Integration > Manager Your Keys > Version 2.0 > Access Key."
+
+msgid ""
+"Your Account ID can be found in your Drip account under Settings > Site "
+"Setup."
+msgstr ""
+"Vaš ID računa možete naći u vašem Drip računu pod Settings > Site Setup."
+
+msgid ""
+"Your App ID can be found in the URL for your account. For example, if the "
+"URL for your account is myaccount.infusionsoft.com, your App ID would be "
+"<strong>myaccount</strong>."
+msgstr ""
+"Vaš App ID možete naći u URL za vaš račun. Na primjer, ako URL za vaš račun "
+"je myaccount.infusionsoft.com, vaš App ID će biti <strong>myaccount</strong>."
+
+msgid "Your Constant Contact API key."
+msgstr "Vaš Constant Contact API ključ."
+
+msgid "Your Constant Contact access token."
+msgstr "Vaš Constant Contact pristupni token."
+
+msgid "Your Message"
+msgstr "Vaša poruka"
+
+msgid "Your Templates"
+msgstr "Vaši predlošci"
+
+msgid "Your email"
+msgstr "Vaš email"
+
+msgid "Your iContact app ID."
+msgstr "Vaš iContact ID aplikacije."
+
+msgid "Your iContact app password."
+msgstr "Vaša iContact zaporka aplikacije."
+
+msgid "Your iContact username."
+msgstr "Vaše iContact korisničko ime."
+
+msgid "Your message"
+msgstr "Vaša  poruka"
+
+msgid "Your name"
+msgstr "Vaše ime"
+
+msgid "Your phone"
+msgstr "Vaš telefon"
+
+msgid "Youtube Or Vimeo URL"
+msgstr "Youtube ili Vimeo URL"
+
+msgid "example@mail.com"
+msgstr "primjer@mail.com"
+
+msgid "http://www.example.com"
+msgstr "http://www.primjer.com"
+
+msgid "http://www.example.com/my-photo.jpg"
+msgstr "http://www.primjer.com/moja-fotografija.jpg"
+
+msgid "per Year"
+msgstr "po godini"
+
+msgid "second(s)"
+msgstr "sekundi"
