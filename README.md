@@ -2,6 +2,11 @@
 
 Hrvatski prijevodi za WordPress teme i dodatke koji se ne nalaze na https://translate.wordpress.org/locale/hr
 
+## Repo trenuto sadrži
+* Beaver Builder prijevod
+* Gravity Forms prijevod
+* Divi theme prijevod
+
 ## Alati za prevođenje
 * **Poedit** - besplatan i dostupan za sve operativne sisteme https://poedit.net/
 * **Loco Translate** - WordPress dodatak za prevođenje tema i dodataka https://wordpress.org/plugins/loco-translate/
