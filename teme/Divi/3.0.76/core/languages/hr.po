@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/init\n"
+"POT-Creation-Date: 2017-08-01 19:27:06+00:00\n"
+"PO-Revision-Date: 2017-09-25 20:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+"X-Poedit-SearchPathExcluded-1: ../node_modules\n"
+
+#: components/Portability.php:197
+msgid "The export process failed. Please refresh the page and try again."
+msgstr "Proces izvoza nije uspio. Osvježite stranicu i pokušajte ponovo."
+
+#: components/Portability.php:1008
+msgid ""
+"The browser version you are currently using is outdated. Please update to "
+"the newest version."
+msgstr ""
+"Inačica preglednika koji trenutno koristite je zastarjela. Ažurirajte ga s "
+"novijom inačicom."
+
+#: components/Portability.php:1009
+msgid ""
+"You reached your server memory limit. Please try increasing your PHP memory "
+"limit."
+msgstr ""
+"Dostigli ste limit memorije vašeg poslužitelja. Pokušajte povećati limit "
+"vaše PHP memorije."
+
+#: components/Portability.php:1010
+msgid ""
+"This file cannot be imported. It may be caused by file_uploads being "
+"disabled in your php.ini. It may also be caused by post_max_size or/and "
+"upload_max_filesize being smaller than file selected. Please increase it or "
+"transfer more substantial data at the time."
+msgstr ""
+"Ova datoteka se ne može uvesti. Možda je uzrok to što je file_uploads "
+"onemogućeno u vašem php.ini. Također može biti prouzrokovano post_max_size "
+"ili/i time što je upload_max_filesize manja nego veličina datoteke koju ste "
+"odabrali. Povećajte je ili prenesite više manjih podataka pojedinačno."
+
+#: components/Portability.php:1011
+msgid "Invalid File format. You should be uploading a JSON file."
+msgstr "Nevažeći format datoteke. Trebate prenositi JSON datoteku."
+
+#: components/Portability.php:1012
+msgid "This file should not be imported in this context."
+msgstr "Ovu datoteku ne bi trebalo uvoziti u ovom kontekst."
+
+#: components/Portability.php:1013
+msgid ""
+"Please select at least one item to export or disable the \"Only export "
+"selected items\" option"
+msgstr ""
+"Odaberite najmanje jednu stavku za izvoz ili isključite opciju \"Izvezi samo "
+"odabrane stavke\""
+
+#: components/Portability.php:1014
+msgid "Import estimated time remaining: %smin"
+msgstr "Procijenjeno preostalo vrijeme uvoza: %sminuta"
+
+#: components/Portability.php:1015
+msgid "Export estimated time remaining: %smin"
+msgstr "Procijenjeno preostalo vrijeme izvoza: %sminuta"
+
+#: components/Portability.php:1016
+msgid "Backup estimated time remaining: %smin"
+msgstr "Procijenjeno preostalo vrijeme kreiranja sigurnosne kopije: %sminuta"
+
+#: components/Portability.php:1038
+msgid "Portability"
+msgstr "Prenosivost"
+
+#: components/Portability.php:1042
+msgid "Export"
+msgstr "Izvoz"
+
+#: components/Portability.php:1043
+msgid "Import"
+msgstr "Uvoz"
+
+#: components/Portability.php:1047
+msgid ""
+"Exporting your %s will create a JSON file that can be imported into a "
+"different website."
+msgstr ""
+"Izvoz vaših %s stvoriti će JSON datoteku koja može biti uvežena na drugoj "
+"web-stranici."
+
+#: components/Portability.php:1048
+msgid "Export File Name"
+msgstr "Izvozno ime datoteke"
+
+#: components/Portability.php:1053
+msgid "Only export selected items"
+msgstr "Izvezi samo odabrane stavke"
+
+#: components/Portability.php:1057
+msgid "Export %s"
+msgstr "Izvezi %s"
+
+#: components/Portability.php:1058
+msgid "Cancel Export"
+msgstr "Otkaži izvoz"
+
+#: components/Portability.php:1063
+msgid ""
+"Importing a previously-exported %s file will overwrite all content currently "
+"on this page."
+msgstr ""
+"Uvoženje prethodno izvežene %s datoteke zamijeniti će sav sadržaj koji je "
+"trenutno na ovoj stranici."
+
+#: components/Portability.php:1065
+msgid ""
+"Select a previously-exported Divi Builder Layouts file to begin importing "
+"items. Large collections of image-heavy exports may take several minutes to "
+"upload."
+msgstr ""
+"Odaberite prethodno izveženu datoteku - Divi Builder Layouts, kako biste "
+"počeli uvoziti stavke. Prijenos izvoznih datoteka s kolekcijom velikih slika "
+"može potrajati nekoliko minuta."
+
+#: components/Portability.php:1067
+msgid ""
+"Importing a previously-exported %s file will overwrite all current data. "
+"Please proceed with caution!"
+msgstr ""
+"Uvoženje prethodno izvežene %s datoteke zamijeniti će sve trenutne podatke. "
+"Nastavite s oprezom!"
+
+#: components/Portability.php:1069
+msgid "Select File To Import"
+msgstr "Odaberite datoteku za uvoz"
+
+#: components/Portability.php:1071
+msgid "No File Selected"
+msgstr "Datoteka nije odabrana"
+
+#: components/Portability.php:1072
+msgid "Choose File"
+msgstr "Odaberite datoteku"
+
+#: components/Portability.php:1076
+msgid "Download backup before importing"
+msgstr "Preuzmite sigurnosne kopije prije uvoza"
+
+#: components/Portability.php:1080
+msgid "Import %s"
+msgstr "Uvezi %s"
+
+#: components/Portability.php:1081
+msgid "Cancel Import"
+msgstr "Otkažu uvoz"
+
+#: components/Portability.php:1177
+msgid "Import & Export"
+msgstr "Uvoz i Izvoz"
+
+#: components/Updates.php:25
+msgid "%s: You cannot create a second instance of this class."
+msgstr "%s: Ne možete kreirati drugi instancu ove klase."
+
+#: components/Updates.php:417
+msgid ""
+"<em>Before you can receive product updates, you must first authenticate your "
+"Elegant Themes subscription. To do this, you need to enter both your Elegant "
+"Themes Username and your Elegant Themes API Key into the Updates Tab in your "
+"theme and plugin settings. To locate your API Key, <a href=\"https://www."
+"elegantthemes.com/members-area/api/\" target=\"_blank\">log in</a> to your "
+"Elegant Themes account and navigate to the <strong>Account > API Key</"
+"strong> page. <a href=\"http://www.elegantthemes.com/gallery/divi/"
+"documentation/update/\" target=\"_blank\">Learn more here</a></em>. If you "
+"still get this message, please make sure that your Username and API Key have "
+"been entered correctly"
+msgstr ""
+"<em>Prije nego što možete dobiti ažuriranja proizvoda, prvo trebate "
+"potvrditi svoju Elegant Themes pretplatu. Za ovo trebate unijeti Elegant "
+"Themes korisničko ime i Elegant Themes API ključ u Opcijama teme, kartica "
+"Ažuriranja. Kako bi pronašli svoj API ključ <a href=\"https://www."
+"elegantthemes.com/members-area/api/\" target=\"_blank\">prijavite se</a> u "
+"svoj Elegant Themes račun i otvorite stranicu <strong>Account > API Key</"
+"strong>. <a href=\"http://www.elegantthemes.com/gallery/divi/documentation/"
+"update/\" target=\"_blank\">Saznajte više ovdje</a></em>. Ako još uvijek "
+"vidite ovu poruku, provjerite jesu li vaše korisničko ime i API ključ "
+"ispravno upisani"
+
+#: components/Updates.php:419
+msgid ""
+"Automatic updates currently unavailable. For all Elegant Themes products, "
+"please <a href=\"http://www.elegantthemes.com/gallery/divi/documentation/"
+"update/\" target=\"_blank\">authenticate your subscription</a> via the "
+"Updates tab in your theme & plugin settings to enable product updates. Make "
+"sure that your Username and API Key have been entered correctly."
+msgstr ""
+"Automtsko ažuriranje trenutno nije dostupno. Za sve Elegant Themes proizvode "
+"<a href=\"http://www.elegantthemes.com/gallery/divi/documentation/update/\" "
+"target=\"_blank\">potvrdite svoju pretplatu</a> putem kartice Ažuriranje u "
+"Opcijama teme kako bi omogućili ažuriranje. Provjerite jeste li ispravno "
+"upisali korisničko ime i API ključ."
+
+#: components/Updates.php:443
+msgid ""
+"Your Elegant Themes subscription has expired. You must <a href=\"https://www."
+"elegantthemes.com/members-area/\" target=\"_blank\">renew your account</a> "
+"to regain access to product updates and support. To ensure compatibility and "
+"security, it is important to always keep your themes and plugins updated."
+msgstr ""
+"Vaša Elegant Themes pretplata je istekla. Trebate <a href=\"https://www."
+"elegantthemes.com/members-area/\" target=\"_blank\">obnoviti vaš račun</a> "
+"kako bi dobili pristup ažuriranju proizvoda i podršci. Kako bi osigurali "
+"kompatibilnost i sigurnost, važno je da uvijek držite teme i dodatke "
+"ažuriranim."
+
+#: components/api/Service.php:231
+msgid "API request failed, please try again."
+msgstr "API zahtjev nije uspio, pokušajte ponovno."
+
+#: components/api/Service.php:232
+msgid "API request failed. API Key is required."
+msgstr "API zahtjev nije uspio. Potreban je API ključ."
+
+#: components/api/email/ActiveCampaign.php:42
+#: components/api/email/CampaignMonitor.php:94
+#: components/api/email/ConvertKit.php:101
+#: components/api/email/Feedblitz.php:43
+#: components/api/email/GetResponse.php:67
+#: components/api/email/Infusionsoft.php:189
+#: components/api/email/MailChimp.php:130
+#: components/api/email/MailerLite.php:56 components/api/email/Ontraport.php:59
+#: components/api/email/SendinBlue.php:59
+msgid "API Key"
+msgstr "API ključ"
+
+#: components/api/email/ActiveCampaign.php:45
+msgid "API URL"
+msgstr "API URL"
+
+#: components/api/email/ActiveCampaign.php:49
+msgid "Form ID"
+msgstr "ID forme"
+
+#: components/api/email/Aweber.php:119
+msgid "Authorization Code"
+msgstr "Autorizacijski kod"
+
+#: components/api/email/ConvertKit.php:104
+msgid "API Secret"
+msgstr "API tajna"
+
+#: components/api/email/Emma.php:49
+msgid "Public API Key"
+msgstr "Javni API ključ"
+
+#: components/api/email/Emma.php:52
+msgid "Private API Key"
+msgstr "Privatni API ključ"
+
+#: components/api/email/Emma.php:55
+msgid "Account ID"
+msgstr "ID računa"
+
+#: components/api/email/Infusionsoft.php:192
+msgid "App Name"
+msgstr "App ime"
+
+#: components/api/email/Infusionsoft.php:283
+msgid ""
+"Successfully authorized. Subscribers count will be updated in background, "
+"please check back in %1$s %2$s"
+msgstr ""
+"Uspješna autorizacija. Boj pretplatnika biti će ažuriran u pozadini, vratite "
+"se nazad za %1$s %2$s"
+
+#: components/api/email/Infusionsoft.php:285
+msgid "minute"
+msgstr "minute"
+
+#: components/api/email/Infusionsoft.php:285
+msgid "minutes"
+msgstr "minuta"
+
+#: components/api/email/Infusionsoft.php:313
+msgid "Already subscribed"
+msgstr "Već pretplaćeni"
+
+#: components/api/email/MailChimp.php:189
+msgid ""
+"You have signed up to a lot of lists very recently, please try again later"
+msgstr ""
+"U zadnje vrijeme pretplatili ste se na puno listi, pokušajte ponovno kasnije"
+
+#: components/api/email/Mailster.php:48
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: components/api/email/Mailster.php:84
+msgid "Mailster Newsletter Plugin is not enabled!"
+msgstr "Mailster Newsletter dodataka nije uključen!"
+
+#: components/api/email/Mailster.php:88
+msgid "No lists were found. Please create a Mailster list first!"
+msgstr "Liste nisu pronađene. Prvo kreirajte Mailster listu!"
+
+#: components/api/email/Mailster.php:104
+msgid "An error occurred. Please try again later."
+msgstr "Pojavila se greška. Pokušajte ponovno kasnije."
+
+#: components/api/email/Ontraport.php:62
+msgid "APP ID"
+msgstr "APP ID"
+
+#: components/api/email/Provider.php:36
+msgid "Subscribed via"
+msgstr "Pretplaćen putem"
+
+#: components/api/email/SalesForce.php:93
+#: components/api/email/SalesForce.php:110
+msgid "Organization ID"
+msgstr "ID organizacije"
+
+#: components/api/email/SalesForce.php:97
+msgid "Instance URL"
+msgstr "URL instance"
+
+#: components/api/email/SalesForce.php:100
+msgid "Consumer Key"
+msgstr "Potrošački ključ"
+
+#: components/api/email/SalesForce.php:103
+msgid "Consumer Secret"
+msgstr "Potrošačka tajna"
+
+#: components/api/email/SalesForce.php:134
+msgid "Organization ID cannot be empty"
+msgstr "ID organizacije ne može biti prazan"
+
+#: components/api/email/SalesForce.php:187
+#: components/api/email/SalesForce.php:264
+msgid "An error occurred. Please try again."
+msgstr "Pojavila se greška. Pokušajte ponovno."
+
+#: components/api/email/SalesForce.php:234
+msgid "Unknown Organization ID"
+msgstr "Nepoznati ID organizacije"
+
+#: components/api/email/init.php:25
+msgid "ERROR: Invalid arguments."
+msgstr "GREŠKA: Neispravni argumenti."
+
+#: components/lib/WPHttp.php:192
+msgid "A valid URL was not provided."
+msgstr "Nije upisan ispravni URL."
+
+#: components/lib/WPHttp.php:196
+msgid "User has blocked requests through HTTP."
+msgstr "Korisnik je blokirao zahtjeve kroz HTTP."
+
+#: components/lib/WPHttp.php:209
+msgid ""
+"Destination directory for file streaming does not exist or is not writable."
+msgstr "Odredišni direktorij za streaming datoteke ne postoji ili nije upisiv."
+
+#: functions.php:122
+msgid "Once Monthly"
+msgstr "Jednom mjesečno"
+
+#: functions.php:134
+msgid "Configuration Error"
+msgstr "Konfiguracijska greška"
+
+#: functions.php:455
+msgid "Got it, thanks!"
+msgstr "Shvatio sam, hvala!"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:225
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
