@@ -10,6 +10,7 @@ Hrvatski prijevodi za WordPress teme i dodatke koji se ne nalaze na https://tran
 ## Alati za prevođenje
 * **Poedit** - besplatan i dostupan za sve operativne sisteme https://poedit.net/
 * **Loco Translate** - WordPress dodatak za prevođenje tema i dodataka https://wordpress.org/plugins/loco-translate/
+* **Localization Helper** - dodata koji prikazuje originalne stringove s informacijama o text domainu, kontekstu i datoteci u koj se nalazi string
 
 ## Korisne poveznice
 
